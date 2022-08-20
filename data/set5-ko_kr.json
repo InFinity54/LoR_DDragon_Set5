@@ -9,8 +9,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014-full.png"
       }
     ],
     "region": "슈리마",
@@ -57,8 +57,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T3-full.png"
       }
     ],
     "region": "슈리마",
@@ -72,8 +72,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "아군 명소 또는 내 마나 보석 하나를 <nobr>파괴한 후</nobr> </nobr>적 유닛 하나에게</nobr> <nobr>피해를 4 입힙니다.</nobr>\r\n내 덱에 <link=card.level1><style=AssociatedCard>제라스</style></link> 1장을 생성합니다.",
-    "descriptionRaw": "아군 명소 또는 내 마나 보석 하나를 파괴한 후 적 유닛 하나에게 피해를 4 입힙니다.\r\n내 덱에 제라스 1장을 생성합니다.",
+    "description": "아군 명소 또는 내 마나 보석 하나를 <nobr>파괴한 후</nobr> 유닛 하나에게 <nobr>피해를 4 입힙니다.</nobr>\r\n내 덱에 <link=card.level1><style=AssociatedCard>제라스</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "아군 명소 또는 내 마나 보석 하나를 파괴한 후 유닛 하나에게 피해를 4 입힙니다.\r\n내 덱에 제라스 1장을 생성합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"큰 힘을 얻기 위한 작은 희생이지.\"\n- 제라스",
@@ -107,8 +107,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T4-full.png"
       }
     ],
     "region": "슈리마",
@@ -122,8 +122,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "내 마나 보석 하나를 파괴한 후 <nobr>적 유닛 하나에게</nobr> <nobr>피해를 4 입힙니다.</nobr>",
-    "descriptionRaw": "내 마나 보석 하나를 파괴한 후 적 유닛 하나에게 피해를 4 입힙니다.",
+    "description": "내 마나 보석 하나를 파괴한 후 <nobr>유닛 하나에게</nobr> <nobr>피해를 4 입힙니다.</nobr>",
+    "descriptionRaw": "내 마나 보석 하나를 파괴한 후 유닛 하나에게 피해를 4 입힙니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"한심하군.\"\n- 제라스",
@@ -157,8 +157,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T5-full.png"
       }
     ],
     "region": "슈리마",
@@ -172,8 +172,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "아군 명소 하나를 파괴한 후 <nobr>적 유닛 하나에게</nobr> <nobr>피해를 4 입힙니다.</nobr>",
-    "descriptionRaw": "아군 명소 하나를 파괴한 후 적 유닛 하나에게 피해를 4 입힙니다.",
+    "description": "아군 명소 하나를 파괴한 후 <nobr>유닛 하나에게</nobr> <nobr>피해를 4 입힙니다.</nobr>",
+    "descriptionRaw": "아군 명소 하나를 파괴한 후 유닛 하나에게 피해를 4 입힙니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"한심하군.\"\n- 제라스",
@@ -207,8 +207,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -255,8 +255,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH014T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -298,8 +298,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH017-full.png"
       }
     ],
     "region": "슈리마",
@@ -342,8 +342,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH011-full.png"
       }
     ],
     "region": "슈리마",
@@ -387,8 +387,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH011T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH011T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH011T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH011T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -434,8 +434,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH011T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH011T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH011T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH011T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -481,8 +481,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH003-full.png"
       }
     ],
     "region": "슈리마",
@@ -528,8 +528,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH016-full.png"
       }
     ],
     "region": "슈리마",
@@ -575,8 +575,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH018-full.png"
       }
     ],
     "region": "슈리마",
@@ -622,8 +622,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH012-full.png"
       }
     ],
     "region": "슈리마",
@@ -669,8 +669,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH012T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -719,8 +719,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH020-full.png"
       }
     ],
     "region": "슈리마",
@@ -764,8 +764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH015-full.png"
       }
     ],
     "region": "슈리마",
@@ -779,8 +779,8 @@
     "attack": 5,
     "cost": 5,
     "health": 4,
-    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 카드 1장을 뽑습니다.<br>명소를 뽑으면 이 효과를 반복합니다.",
-    "descriptionRaw": "사용: 카드 1장을 뽑습니다.명소를 뽑으면 이 효과를 반복합니다.",
+    "description": "소환 시 카드 1장을 뽑습니다.<br>명소를 뽑으면 이 효과를 반복합니다.",
+    "descriptionRaw": "소환 시 카드 1장을 뽑습니다.명소를 뽑으면 이 효과를 반복합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "그녀의 앞에 펼쳐진 지평선이 활기차게 노래했습니다.<br>다른 이들의 눈엔 흙과 모래만이 보였지만,<br>그녀의 눈에는 신비한 선이 보였습니다.<br>격자 모양으로 뻗어 나간 선들은 눈부시게 찬란했고,<br>그녀가 낚아채기만 하면 되는 순수한 힘으로 가득했습니다.",
@@ -809,8 +809,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH004-full.png"
       }
     ],
     "region": "슈리마",
@@ -854,8 +854,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH004T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -899,8 +899,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH004T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -944,8 +944,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH002-full.png"
       }
     ],
     "region": "슈리마",
@@ -989,8 +989,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH007-full.png"
       }
     ],
     "region": "슈리마",
@@ -1004,8 +1004,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "아군 명소 또는 내 마나 보석 하나를 파괴한 후 적 유닛 하나에게<br>피해를 4 입힙니다.",
-    "descriptionRaw": "아군 명소 또는 내 마나 보석 하나를 파괴한 후 적 유닛 하나에게피해를 4 입힙니다.",
+    "description": "아군 명소 또는 내 마나 보석 하나를 파괴한 후 유닛 하나에게<br>피해를 4 입힙니다.",
+    "descriptionRaw": "아군 명소 또는 내 마나 보석 하나를 파괴한 후 유닛 하나에게피해를 4 입힙니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"큰 힘을 얻기 위한 작은 희생이지.\"\n- 제라스",
@@ -1034,8 +1034,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH007T1-full.png"
       }
     ],
     "region": "슈리마",
@@ -1049,8 +1049,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "아군 명소 하나를 파괴한 후 <nobr>적 유닛 하나에게</nobr> <nobr>피해를 4 입힙니다.</nobr>",
-    "descriptionRaw": "아군 명소 하나를 파괴한 후 적 유닛 하나에게 피해를 4 입힙니다.",
+    "description": "아군 명소 하나를 파괴한 후 <nobr>유닛 하나에게</nobr> <nobr>피해를 4 입힙니다.</nobr>",
+    "descriptionRaw": "아군 명소 하나를 파괴한 후 유닛 하나에게 피해를 4 입힙니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"한심하군.\"\n- 제라스",
@@ -1079,8 +1079,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SH007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SH007T2-full.png"
       }
     ],
     "region": "슈리마",
@@ -1094,8 +1094,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "내 마나 보석 하나를 파괴한 후 <nobr>적 유닛 하나에게</nobr> <nobr>피해를 4 입힙니다.</nobr>",
-    "descriptionRaw": "내 마나 보석 하나를 파괴한 후 적 유닛 하나에게 피해를 4 입힙니다.",
+    "description": "내 마나 보석 하나를 파괴한 후 <nobr>유닛 하나에게</nobr> <nobr>피해를 4 입힙니다.</nobr>",
+    "descriptionRaw": "내 마나 보석 하나를 파괴한 후 유닛 하나에게 피해를 4 입힙니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"한심하군.\"\n- 제라스",
@@ -1126,8 +1126,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC010-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1175,8 +1175,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC102-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1218,8 +1218,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC010T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1263,8 +1263,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC099-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1309,8 +1309,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC133.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC133-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC133.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC133-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1359,8 +1359,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC202.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC202-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC202.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC202-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1407,8 +1407,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC133T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC133T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC133T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC133T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1456,8 +1456,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC073-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1499,8 +1499,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC039-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1546,8 +1546,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC148.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC148-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC148.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC148-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1599,8 +1599,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC093-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1647,8 +1647,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC093T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC093T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC093T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC093T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1696,8 +1696,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC093T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC093T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC093T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC093T2-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1741,8 +1741,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC007-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1788,8 +1788,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC185.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC185-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC185.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC185-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1835,8 +1835,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC096.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC096-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC096-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1884,8 +1884,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC096T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC096T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC096T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC096T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1933,8 +1933,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC042-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -1978,8 +1978,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC205.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC205-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC205.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC205-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2025,8 +2025,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC223.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC223-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC223.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC223-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2072,8 +2072,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC223T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC223T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC223T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC223T2-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2119,8 +2119,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC223T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC223T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC223T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC223T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2168,8 +2168,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2216,8 +2216,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T3-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2231,8 +2231,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "적 유닛 하나에게 피해를 2 입히거나<br>적 유닛 둘에게 피해를 1 입힙니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>직스</style></link> 1장을 생성합니다.",
-    "descriptionRaw": "적 유닛 하나에게 피해를 2 입히거나적 유닛 둘에게 피해를 1 입힙니다.\r\n내 덱에 직스 1장을 생성합니다.",
+    "description": "유닛 하나에게 피해를 2 입히거나 <nobr>적 유닛</nobr> 둘에게 피해를 1 입힙니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>직스</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "유닛 하나에게 피해를 2 입히거나 적 유닛 둘에게 피해를 1 입힙니다.\r\n내 덱에 직스 1장을 생성합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"폭탄 투하!\"\n- 직스",
@@ -2263,8 +2263,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T4-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2313,8 +2313,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T6-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2361,8 +2361,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T7-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2376,8 +2376,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "적 유닛 하나에게 피해를 2 입힙니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>직스</style></link> 1장을 생성합니다.",
-    "descriptionRaw": "적 유닛 하나에게 피해를 2 입힙니다.\r\n내 덱에 직스 1장을 생성합니다.",
+    "description": "유닛 하나에게 피해를 2 입힙니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>직스</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "유닛 하나에게 피해를 2 입힙니다.\r\n내 덱에 직스 1장을 생성합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"폭탄 투하!\"\n- 직스",
@@ -2410,8 +2410,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2457,8 +2457,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC163T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC163T5-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2504,8 +2504,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC151.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC151-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC151.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC151-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2547,8 +2547,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC027-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2592,8 +2592,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC021-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2607,8 +2607,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "적 유닛 하나에게 피해를 2 입히거나<br>적 유닛 둘에게 피해를 1 입힙니다.",
-    "descriptionRaw": "적 유닛 하나에게 피해를 2 입히거나적 유닛 둘에게 피해를 1 입힙니다.",
+    "description": "유닛 하나에게 피해를 2 입히거나 <nobr>적 유닛</nobr> 둘에게 피해를 1 입힙니다.",
+    "descriptionRaw": "유닛 하나에게 피해를 2 입히거나 적 유닛 둘에게 피해를 1 입힙니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"폭탄 투하!\"\n- 직스",
@@ -2639,8 +2639,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC167.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC167-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC167.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC167-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2686,8 +2686,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC179.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC179-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC179.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC179-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2703,8 +2703,8 @@
     "attack": 5,
     "cost": 6,
     "health": 5,
-    "description": "<link=vocab.Attack><style=Vocab>공격</style></link>: 이 유닛보다 공격력이 높지 않은 모든 아군과 이 유닛에게 +0|+1을 부여합니다.",
-    "descriptionRaw": "공격: 이 유닛보다 공격력이 높지 않은 모든 아군과 이 유닛에게 +0|+1을 부여합니다.",
+    "description": "<link=vocab.Attack><style=Vocab>공격</style></link>: 이 유닛보다 공격력이 높지 않은 모든 아군에게 +0|+1을 부여합니다.",
+    "descriptionRaw": "공격: 이 유닛보다 공격력이 높지 않은 모든 아군에게 +0|+1을 부여합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"뽀삐! 최신 전술을 아주 훌륭하게 수행했어.<br>이 전술은 '땅콩 꽃잎폭풍'이라고 부르는 게 어떨까?\"\n\"난 그저 악당을 망치로 때렸을 뿐인데...<br>그냥 '망치질'은 어때?\"\n\"바로 전에 짠 전술 세 개도 그렇게 불렀잖아!\"\n- 킵과 뽀삐",
@@ -2735,8 +2735,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC214.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC214-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC214.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC214-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2783,8 +2783,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC041-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2800,10 +2800,10 @@
     "attack": 4,
     "cost": 4,
     "health": 3,
-    "description": "<link=vocab.Attack><style=Vocab>공격</style></link>: 이 유닛보다 공격력이 높지 않은 모든 아군과 이 유닛에게 +1|+1을 부여합니다.",
-    "descriptionRaw": "공격: 이 유닛보다 공격력이 높지 않은 모든 아군과 이 유닛에게 +1|+1을 부여합니다.",
-    "levelupDescription": "아군과 함께 3번 공격해야 합니다. <style=Variable></style>",
-    "levelupDescriptionRaw": "아군과 함께 3번 공격해야 합니다. ",
+    "description": "<link=vocab.Attack><style=Vocab>공격</style></link>: 이 유닛보다 공격력이 높지 않은 모든 아군에게 +1|+1을 부여합니다.",
+    "descriptionRaw": "공격: 이 유닛보다 공격력이 높지 않은 모든 아군에게 +1|+1을 부여합니다.",
+    "levelupDescription": "이 유닛이 아군과 함께 3번 공격해야 합니다. <style=Variable></style>",
+    "levelupDescriptionRaw": "이 유닛이 아군과 함께 3번 공격해야 합니다. ",
     "flavorText": "겸손은 영웅의 특징 중 하나지만 뽀삐는 그 정도가 <nobr>심하다는 것에</nobr> 많은 역사학자가 동의할 것입니다.",
     "artistName": "Dao Le",
     "name": "뽀삐",
@@ -2828,8 +2828,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC105-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2877,8 +2877,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC164.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC164-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC164.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC164-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2922,8 +2922,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC194.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC194-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC194.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC194-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -2967,8 +2967,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC195.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC195-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC195.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC195-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3012,8 +3012,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC216.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC216-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC216.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC216-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3057,8 +3057,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC216T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC216T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC216T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC216T2-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3102,8 +3102,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC216T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC216T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC216T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC216T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3149,8 +3149,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC212.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC212-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC212.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC212-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3192,8 +3192,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC212T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC212T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC212T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC212T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3239,8 +3239,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC209.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC209-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC209.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC209-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3284,8 +3284,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC013-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3331,8 +3331,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC100.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC100-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC100.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC100-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3378,8 +3378,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC098-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3421,8 +3421,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC122.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC122-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC122.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC122-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3464,8 +3464,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC018-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3516,8 +3516,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC041T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC041T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC041T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC041T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3533,8 +3533,8 @@
     "attack": 5,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Attack><style=Vocab>공격</style></link>: 이 유닛보다 공격력이 높지 않은 모든 아군과 이 유닛에게 +2|+2 및 <link=keyword.Impact><sprite name=Impact><style=Keyword>여파</style></link> 효과를 부여합니다.",
-    "descriptionRaw": "공격: 이 유닛보다 공격력이 높지 않은 모든 아군과 이 유닛에게 +2|+2 및 여파 효과를 부여합니다.",
+    "description": "<link=vocab.Attack><style=Vocab>공격</style></link>: 이 유닛보다 공격력이 높지 않은 모든 아군에게 +2|+2 및 <link=keyword.Impact><sprite name=Impact><style=Keyword>여파</style></link> 효과를 부여합니다.",
+    "descriptionRaw": "공격: 이 유닛보다 공격력이 높지 않은 모든 아군에게 +2|+2 및 여파 효과를 부여합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "힘이 아무리 부패하기 쉽다고 해도 완고할 정도로 고지식하고 선한 마음을 가졌다면 끄떡없다는 걸 뽀삐를 보면 알 수 있습니다.",
@@ -3568,8 +3568,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC041T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC041T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC041T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC041T3-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3615,8 +3615,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC132.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC132-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC132.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC132-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3660,8 +3660,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC198.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC198-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC198.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC198-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3675,8 +3675,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "적 유닛 하나에게 피해를 1 입힙니다. 아군이 넷 이상이면 <nobr>피해를 2 입힙니다.</nobr>",
-    "descriptionRaw": "적 유닛 하나에게 피해를 1 입힙니다. 아군이 넷 이상이면 피해를 2 입힙니다.",
+    "description": "유닛 하나에게 피해를 1 입힙니다. 아군이 넷 이상이면 <nobr>피해를 2 입힙니다.</nobr>",
+    "descriptionRaw": "유닛 하나에게 피해를 1 입힙니다. 아군이 넷 이상이면 피해를 2 입힙니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"자, 그럼 이제 소식지에 실을 사진을 찍을게요.<br>이번에는 꼭 웃어야 해요! 하나... 둘... 셋...!\"\n- 트리스타나",
@@ -3705,8 +3705,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC160.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC160-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC160.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC160-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3756,8 +3756,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC005-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3801,8 +3801,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC049-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3846,8 +3846,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC001-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3891,8 +3891,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC167T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC167T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC167T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC167T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3940,8 +3940,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC026-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -3985,8 +3985,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC152.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC152-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC152.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC152-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4032,8 +4032,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC070-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4078,8 +4078,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC145.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC145-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC145.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC145-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4121,8 +4121,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC140.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC140-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC140.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC140-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4170,8 +4170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC129.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC129-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC129.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC129-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4221,8 +4221,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC004-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4266,8 +4266,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC073T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4313,8 +4313,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC192.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC192-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC192.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC192-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4358,8 +4358,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC166.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC166-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC166.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC166-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4403,8 +4403,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC006-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4448,8 +4448,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC040-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4493,8 +4493,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC208.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC208-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC208.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC208-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4538,8 +4538,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC135.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC135-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC135.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC135-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4585,8 +4585,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC184.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC184-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC184.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC184-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4628,8 +4628,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC116.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC116-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC116.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC116-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4675,8 +4675,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC111.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC111-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC111.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC111-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4720,8 +4720,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC145T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC145T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC145T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC145T2-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4765,8 +4765,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC145T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC145T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC145T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC145T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4810,8 +4810,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC191.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC191-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC191.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC191-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4855,8 +4855,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC052.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC052-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC052.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC052-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4902,8 +4902,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC050-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4943,8 +4943,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC021T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC021T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC021T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC021T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -4958,8 +4958,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "적 유닛 하나에게 피해를 2 입힙니다.",
-    "descriptionRaw": "적 유닛 하나에게 피해를 2 입힙니다.",
+    "description": "유닛 하나에게 피해를 2 입힙니다.",
+    "descriptionRaw": "유닛 하나에게 피해를 2 입힙니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"폭탄 투하!\"\n- 직스",
@@ -4988,8 +4988,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC021T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC021T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC021T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC021T2-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -5035,8 +5035,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC094.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC094-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC094-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -5082,8 +5082,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC001T1-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -5123,8 +5123,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC146.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC146-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC146.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC146-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -5170,8 +5170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC235.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC235-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC235.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC235-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -5213,8 +5213,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC175.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC175-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC175.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC175-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -5260,8 +5260,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC069-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -5305,8 +5305,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC057-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -5348,8 +5348,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC188.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BC188-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC188.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BC188-full.png"
       }
     ],
     "region": "밴들 시티",
@@ -5363,8 +5363,8 @@
     "attack": 4,
     "cost": 6,
     "health": 6,
-    "description": "무작위 선택지에서 챔피언이 아닌 카드를 선택하면 손에 복사본을 생성하고 비용을 1 감소시킵니다.",
-    "descriptionRaw": "무작위 선택지에서 챔피언이 아닌 카드를 선택하면 손에 복사본을 생성하고 비용을 1 감소시킵니다.",
+    "description": "무작위 선택지에서 챔피언이 아닌 카드를 선택하면 손에 복사본을 생성하고<br>비용을 1 감소시킵니다.",
+    "descriptionRaw": "무작위 선택지에서 챔피언이 아닌 카드를 선택하면 손에 복사본을 생성하고비용을 1 감소시킵니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "수줍음이 많아 모습을 잘 드러내지 않기로 유명한 조개족은<br>호기심에 못 이길 때까지 조개 속에 숨어 있는 것으로<br>알려져 있습니다. 한번 나타나면 장난기 많은 성격을<br>완전히 발휘하며 다른 해양 생물의 소리를<br>능숙하게 따라 하는 등 장난을 치기도 합니다.",
@@ -5391,8 +5391,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX009-full.png"
       }
     ],
     "region": "녹서스",
@@ -5432,8 +5432,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX006-full.png"
       }
     ],
     "region": "녹서스",
@@ -5477,8 +5477,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX017-full.png"
       }
     ],
     "region": "녹서스",
@@ -5524,8 +5524,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX005-full.png"
       }
     ],
     "region": "녹서스",
@@ -5573,8 +5573,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX001-full.png"
       }
     ],
     "region": "녹서스",
@@ -5620,8 +5620,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX003-full.png"
       }
     ],
     "region": "녹서스",
@@ -5667,8 +5667,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX015-full.png"
       }
     ],
     "region": "녹서스",
@@ -5716,8 +5716,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX013-full.png"
       }
     ],
     "region": "녹서스",
@@ -5761,8 +5761,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX018-full.png"
       }
     ],
     "region": "녹서스",
@@ -5810,8 +5810,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX001T1-full.png"
       }
     ],
     "region": "녹서스",
@@ -5861,8 +5861,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX001T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX001T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX001T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX001T3-full.png"
       }
     ],
     "region": "녹서스",
@@ -5912,8 +5912,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX001T2-full.png"
       }
     ],
     "region": "녹서스",
@@ -5957,8 +5957,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX012-full.png"
       }
     ],
     "region": "녹서스",
@@ -6004,8 +6004,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX014-full.png"
       }
     ],
     "region": "녹서스",
@@ -6051,8 +6051,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX007-full.png"
       }
     ],
     "region": "녹서스",
@@ -6098,8 +6098,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX004-full.png"
       }
     ],
     "region": "녹서스",
@@ -6139,8 +6139,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX016-full.png"
       }
     ],
     "region": "녹서스",
@@ -6180,8 +6180,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05NX002-full.png"
       }
     ],
     "region": "녹서스",
@@ -6230,8 +6230,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW005-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6282,8 +6282,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW005T2-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6332,8 +6332,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW005T1-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6382,8 +6382,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW006-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6429,8 +6429,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW006T2-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6476,8 +6476,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW006T1-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6523,8 +6523,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW002-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6568,8 +6568,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW008-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6615,8 +6615,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW011-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6667,8 +6667,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW003-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6714,8 +6714,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW003T1-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6759,8 +6759,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW003T2-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6804,8 +6804,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW004-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6849,8 +6849,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW001-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6890,8 +6890,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW010-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6931,8 +6931,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05BW013-full.png"
       }
     ],
     "region": "빌지워터",
@@ -6974,8 +6974,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ015-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7015,8 +7015,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ012-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7053,11 +7053,58 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ023"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ026-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "<link=card.summon><style=AssociatedCard>제작소 일꾼</style></link> 둘을 소환합니다.",
+    "descriptionRaw": "제작소 일꾼 둘을 소환합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"근무 교대 시간!\"\n- 제작소장",
+    "artistName": "Kudos Productions",
+    "name": "조립 라인",
+    "cardCode": "05PZ026",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ019-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7101,8 +7148,563 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ023-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"맞아, 이 전력 형성 기술이라는 것 때문에<br>제이스와 그자들을 도왔지.<br>사실은 제이스가 문서 작업이 끝나면<br>날 공동 발명자로 올려준댔어.<br>똑똑한 인재를 알아봐 주는 거지, 안 그래?\"",
+    "artistName": "Envar Studio",
+    "name": "제작소 일꾼",
+    "cardCode": "05PZ023",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ031T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ031-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 6,
+    "cost": 7,
+    "health": 5,
+    "description": "소환 시 <link=card.champ1><style=AssociatedCard>제이스</style></link> 카드 1장을 뽑습니다. <link=keyword.AttackSkillMark><sprite name=SkillMark><style=Keyword>공격</style></link>: 적 넥서스에 피해를 1 입힙니다. 이 게임에서 시전한 비용이 6 이상인 주문 하나당 피해가 1씩 증가합니다.",
+    "descriptionRaw": "소환 시 제이스 카드 1장을 뽑습니다. 공격: 적 넥서스에 피해를 1 입힙니다. 이 게임에서 시전한 비용이 6 이상인 주문 하나당 피해가 1씩 증가합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"너그러운 알버스 페로스가<br>제이스의 마법공학 연구 지원에 대한 권리를<br>카드왈더 가문과 지오파라 가문에 비해<br>훨씬 높은 값에 제의하여 또다시 주목을 받았다.<br>'페로스 가문의 경사는 필트오버의 경사'라는 말이 있듯<br>어제는 페로스 가문의 대경사였다!\"\n- 필트오버 데일리 중 지원받아 작성된 기사에서 발췌",
+    "artistName": "Kudos Productions",
+    "name": "알버스 페로스",
+    "cardCode": "05PZ031",
+    "keywords": [
+      "선제공격"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "서사급",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ031T1-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "적 넥서스에 피해를 1 입힙니다.",
+    "descriptionRaw": "적 넥서스에 피해를 1 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"투자 먼저. 배당금은 그다음.\"\n- 알버스 페로스",
+    "artistName": "Kudos Productions",
+    "name": "페로스의 배당금",
+    "cardCode": "05PZ031T1",
+    "keywords": [
+      "스킬"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "스킬",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ027-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "적 유닛과 적 넥서스에 피해를 3씩 입히거나 적 유닛 둘에게 피해를 3씩 입힙니다.",
+    "descriptionRaw": "적 유닛과 적 넥서스에 피해를 3씩 입히거나 적 유닛 둘에게 피해를 3씩 입힙니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"발사!\"\n- 제이스",
+    "artistName": "Kudos Productions",
+    "name": "전격 폭발",
+    "cardCode": "05PZ027",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022T1",
+      "05PZ022T2",
+      "05PZ022T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>선제공격</style></link> 또는 <link=keyword.Challenger><sprite name=Challenger><style=Keyword>도전자</style></link> 효과를 얻습니다.",
+    "descriptionRaw": "사용: 선제공격 또는 도전자 효과를 얻습니다.",
+    "levelupDescription": "비용이 6 이상인 주문을 2개<br>시전해야 합니다. <style=Variable></style><br>레벨 업하면 손에<br><link=card.create><style=AssociatedCard>가속 관문</style></link> 1장을 생성합니다.",
+    "levelupDescriptionRaw": "비용이 6 이상인 주문을 2개시전해야 합니다. 레벨 업하면 손에가속 관문 1장을 생성합니다.",
+    "flavorText": "\"로사, 알다시피 전력 형성 기술은 세상의 변화를 기약하지.\"\n\"정말 대단한 성과야, 제이스.<br>공동억제기를 잇대는 방식, 놀라워.\"\n\"정말로. 액셀의 아이디어도 그렇고! 그렇지?\"\n\"알잖아. 자랑하는 거 안 좋아하는 거...\"",
+    "artistName": "Kudos Productions",
+    "name": "제이스",
+    "cardCode": "05PZ022",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T8-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 5,
+    "description": "라운드마다 처음으로 비용이 6 이상인 주문을 시전하면 같은 주문을 한 번 더 시전합니다.",
+    "descriptionRaw": "라운드마다 처음으로 비용이 6 이상인 주문을 시전하면 같은 주문을 한 번 더 시전합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"캐논 정비 완료. 해머 준비 완료.<br>이 순간은 역사책 한 권으로 남게 될 거야.\"",
+    "artistName": "Kudos Productions",
+    "name": "제이스",
+    "cardCode": "05PZ022T8",
+    "keywords": [
+      "선제공격"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T1-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>선제공격</style></link> 또는 <link=keyword.Challenger><sprite name=Challenger><style=Keyword>도전자</style></link> 효과를 얻습니다.\r\n라운드마다 처음으로 비용이 6 이상인 주문을 시전하면 같은 주문을 한 번 더 시전합니다.",
+    "descriptionRaw": "사용: 선제공격 또는 도전자 효과를 얻습니다.\r\n라운드마다 처음으로 비용이 6 이상인 주문을 시전하면 같은 주문을 한 번 더 시전합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"캐논 정비 완료. 해머 준비 완료.<br>이 순간은 역사책 한 권으로 남게 될 거야.\"",
+    "artistName": "Kudos Productions",
+    "name": "제이스",
+    "cardCode": "05PZ022T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T2-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "적 유닛과 적 넥서스에 피해를 3씩 입히거나 적 유닛 둘에게 피해를 3씩 입힙니다.<br>내 덱에 <link=card.level1><style=AssociatedCard>제이스</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "적 유닛과 적 넥서스에 피해를 3씩 입히거나 적 유닛 둘에게 피해를 3씩 입힙니다.내 덱에 제이스 1장을 생성합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"발사!\"\n- 제이스",
+    "artistName": "Kudos Productions",
+    "name": "제이스의 전격 폭발",
+    "cardCode": "05PZ022T2",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022T9",
+      "05PZ022T2",
+      "05PZ022T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T7-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "비용이 6 이상인 주문을 2개<br>시전해야 합니다. <style=Variable></style><br>레벨 업하면 손에<br><link=card.create><style=AssociatedCard>가속 관문</style></link> 1장을 생성합니다.",
+    "levelupDescriptionRaw": "비용이 6 이상인 주문을 2개시전해야 합니다. 레벨 업하면 손에가속 관문 1장을 생성합니다.",
+    "flavorText": "\"로사, 알다시피 전력 형성 기술은 세상의 변화를 기약하지.\"\n\"정말 대단한 성과야, 제이스.<br>공동억제기를 잇대는 방식, 놀라워.\"\n\"정말로. 액셀의 아이디어도 그렇고! 그렇지?\"\n\"알잖아. 자랑하는 거 안 좋아하는 거...\"",
+    "artistName": "Kudos Productions",
+    "name": "제이스",
+    "cardCode": "05PZ022T7",
+    "keywords": [
+      "도전자"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022T8",
+      "05PZ022T2",
+      "05PZ022T3"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T6-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "비용이 6 이상인 주문을 2개<br>시전해야 합니다. <style=Variable></style><br>레벨 업하면 손에<br><link=card.create><style=AssociatedCard>가속 관문</style></link> 1장을 생성합니다.",
+    "levelupDescriptionRaw": "비용이 6 이상인 주문을 2개시전해야 합니다. 레벨 업하면 손에가속 관문 1장을 생성합니다.",
+    "flavorText": "\"로사, 알다시피 전력 형성 기술은 세상의 변화를 기약하지.\"\n\"정말 대단한 성과야, 제이스.<br>공동억제기를 잇대는 방식, 놀라워.\"\n\"정말로. 액셀의 아이디어도 그렇고! 그렇지?\"\n\"알잖아. 자랑하는 거 안 좋아하는 거...\"",
+    "artistName": "Kudos Productions",
+    "name": "제이스",
+    "cardCode": "05PZ022T6",
+    "keywords": [
+      "선제공격"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "챔피언",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "05PZ022",
+      "05PZ022T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T9-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 5,
+    "cost": 4,
+    "health": 5,
+    "description": "라운드마다 처음으로 비용이 6 이상인 주문을 시전하면 같은 주문을 한 번 더 시전합니다.",
+    "descriptionRaw": "라운드마다 처음으로 비용이 6 이상인 주문을 시전하면 같은 주문을 한 번 더 시전합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"캐논 정비 완료. 해머 준비 완료.<br>이 순간은 역사책 한 권으로 남게 될 거야.\"",
+    "artistName": "Kudos Productions",
+    "name": "제이스",
+    "cardCode": "05PZ022T9",
+    "keywords": [
+      "도전자"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "챔피언",
+    "type": "유닛",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ022T3-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "이번 라운드에 아군에게 +2|+0 및 <link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>선제공격</style></link> 효과를 일시 부여합니다. 이미 선제공격 또는 <link=keyword.Double Strike><sprite name=DoubleStrike><style=Keyword>추가 공격</style></link>을 보유하고 있다면 무작위 키워드 하나를 일시 부여합니다.",
+    "descriptionRaw": "이번 라운드에 아군에게 +2|+0 및 선제공격 효과를 일시 부여합니다. 이미 선제공격 또는 추가 공격을 보유하고 있다면 무작위 키워드 하나를 일시 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"가속 관문 준비.\"\n- 제이스",
+    "artistName": "Kudos Productions",
+    "name": "가속 관문",
+    "cardCode": "05PZ022T3",
+    "keywords": [
+      "집중"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "집중",
+    "spellSpeedRef": "Slow",
+    "rarity": "없음",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": false,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ017-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7148,8 +7750,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ013-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7163,8 +7765,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "적 유닛 하나에게 피해를 2 입히고<br>적 덱의 맨 위에 있는 카드 10장에 무작위로 <link=card.shuffle><style=AssociatedCard>섬광탄 함정</style></link> 둘을 설치합니다.",
-    "descriptionRaw": "적 유닛 하나에게 피해를 2 입히고적 덱의 맨 위에 있는 카드 10장에 무작위로 섬광탄 함정 둘을 설치합니다.",
+    "description": "유닛 하나에게 피해를 2 입히고<br>적 덱의 맨 위에 있는 카드 10장에 무작위로 <link=card.shuffle><style=AssociatedCard>섬광탄 함정</style></link> 둘을 설치합니다.",
+    "descriptionRaw": "유닛 하나에게 피해를 2 입히고적 덱의 맨 위에 있는 카드 10장에 무작위로 섬광탄 함정 둘을 설치합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"이게 내 명함이야.\"\n- 케이틀린",
@@ -7193,8 +7795,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ020-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7235,13 +7837,54 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ024-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>사용</style></link>: 내 덱과 지역이 같고 비용이 6 이상인 주문 하나를 <link=vocab.Manifest><style=Vocab>시현</style></link>합니다.",
+    "descriptionRaw": "사용: 내 덱과 지역이 같고 비용이 6 이상인 주문 하나를 시현합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"페로스 쪽에서 내 연구를 지원해주는 데 있어 유일한 이점은<br>레지와 함께하게 된 것이었다.<br>같이 작업해 본 사람 중 가장 유능할 뿐만 아니라<br>대단한 사람이다.\"\n- 제이스의 일기장에서 발췌",
+    "artistName": "Kudos Productions",
+    "name": "페로스 재무관",
+    "cardCode": "05PZ024",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "05PZ008"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ010-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7289,8 +7932,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ014-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7332,8 +7975,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ014T1-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7377,8 +8020,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ014T2-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7422,8 +8065,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ002-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7467,8 +8110,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ008-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7510,14 +8153,102 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
+      "05PZ023"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ021-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "소환 시 <link=card.summon><style=AssociatedCard>제작소 일꾼</style></link> 하나를 소환합니다. 비용이 6 이상인 주문을 시전하면 파괴되고 주문 마나를 회복합니다.",
+    "descriptionRaw": "소환 시 제작소 일꾼 하나를 소환합니다. 비용이 6 이상인 주문을 시전하면 파괴되고 주문 마나를 회복합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "필트오버가 발명으로 돌아가는 도시라면<br>필트오버의 제작소는 엔진 역할을 하지.",
+    "artistName": "Kudos Productions",
+    "name": "미래의 제작소",
+    "cardCode": "05PZ021",
+    "keywords": [
+      "명소"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "명소",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ025-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Strike><style=Vocab>타격</style></link>: 주문 마나를 1 회복합니다.",
+    "descriptionRaw": "타격: 주문 마나를 1 회복합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"중요한 발상을 실현하는 방법은 두 가지가 있다.<br>자금이 그중 하나이고 다른 하나가 좋은 제작소다.<br>제작소에 있는 도구나 장비를 말하는 것이 아니다.<br>제작소장이 발상을 실현할 줄 모르면<br>발상은 그저 종이 쪼가리로 남고 만다.\"\n- 제이스",
+    "artistName": "Kudos Productions",
+    "name": "제작소장",
+    "cardCode": "05PZ025",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
       "05PZ008",
       "05PZ006T1",
       "05PZ006T2"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ006-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7563,8 +8294,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ004-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7606,8 +8337,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ009-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7651,8 +8382,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ016-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7693,13 +8424,103 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ030-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "뽑거나 손에 생성 시 또는<br>매 <link=vocab.RoundStart><style=Vocab>라운드 시작</style></link>: 손에 있을 때 비용이 6<br>이상인 무작위 주문으로 변신합니다.",
+    "descriptionRaw": "뽑거나 손에 생성 시 또는매 라운드 시작: 손에 있을 때 비용이 6이상인 무작위 주문으로 변신합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"...마법공학을 안정적인 상태로 구성하는 것이<br>가장 힘들었던 부분이다.<br>밤마다 수정과 마공석이<br>나를 무너뜨리려고 음모를 꾸미는 것 같았다.<br>무수한 실험과 오류를 반복한 뒤에야<br>나는 여러 요소를 조화롭게 작동할 수 있었다...\"\n- 제이스의 일기장에서 발췌",
+    "artistName": "Kudos Productions",
+    "name": "마법공학 이상 현상",
+    "cardCode": "05PZ030",
+    "keywords": [
+      "몰입"
+    ],
+    "keywordRefs": [
+      "Focus"
+    ],
+    "spellSpeed": "즉발",
+    "spellSpeedRef": "Burst",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "주문",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ028-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 2,
+    "cost": 4,
+    "health": 4,
+    "description": "이 게임에서 비용이 6 이상인 주문을 시전했으면 +2|+0을 얻습니다.",
+    "descriptionRaw": "이 게임에서 비용이 6 이상인 주문을 시전했으면 +2|+0을 얻습니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "\"이 도시 사람들은 '지성'을 숭배한다.<br>하지만 그걸 표현할 수단이 없으면<br>머리가 좋아도 무슨 소용인가.<br>나는 필트오버에 진정한 위대함을 보일 것이다.<br>이것은 사람들 위에 우뚝 떠오를 것이다.<br>태양을 가리고 내 이름을 세상에 알릴 것이다.\"\n- 알버스 페로스",
+    "artistName": "Kudos Productions",
+    "name": "페로스 하늘유람선",
+    "cardCode": "05PZ028",
+    "keywords": [
+      "포착 불가"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "일반급",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [
       "01PZ022"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ035-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7747,8 +8568,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ006T2-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7796,8 +8617,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ006T1-full.png"
       }
     ],
     "region": "필트오버 & 자운",
@@ -7811,8 +8632,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "적 유닛 하나에게 피해를 2 입히고<br>적 덱의 맨 위에 있는 카드 10장에<br>무작위로 <link=card.shuffle><style=AssociatedCard>섬광탄 함정</style></link> 둘을 설치합니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>케이틀린</style></link> 1장을 생성합니다.",
-    "descriptionRaw": "적 유닛 하나에게 피해를 2 입히고적 덱의 맨 위에 있는 카드 10장에무작위로 섬광탄 함정 둘을 설치합니다.\r\n내 덱에 케이틀린 1장을 생성합니다.",
+    "description": "유닛 하나에게 피해를 2 입히고<br>적 덱의 맨 위에 있는 카드 10장에<br>무작위로 <link=card.shuffle><style=AssociatedCard>섬광탄 함정</style></link> 둘을 설치합니다.\r\n내 덱에 <link=card.level1><style=AssociatedCard>케이틀린</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "유닛 하나에게 피해를 2 입히고적 덱의 맨 위에 있는 카드 10장에무작위로 섬광탄 함정 둘을 설치합니다.\r\n내 덱에 케이틀린 1장을 생성합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"이게 내 명함이야.\"\n- 케이틀린",
@@ -7841,8 +8662,55 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05PZ029-full.png"
+      }
+    ],
+    "region": "필트오버 & 자운",
+    "regionRef": "PiltoverZaun",
+    "regions": [
+      "필트오버 & 자운"
+    ],
+    "regionRefs": [
+      "PiltoverZaun"
+    ],
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "이 게임에서 비용이 6 이상인 주문을 시전했으면 <link=vocab.Everywhere><style=Vocab>어디에 있든</style></link> 아군 공학 유닛에게 +1|+1을 부여합니다.",
+    "descriptionRaw": "이 게임에서 비용이 6 이상인 주문을 시전했으면 어디에 있든 아군 공학 유닛에게 +1|+1을 부여합니다.",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "마법공학 처리사는 원래 필트오버에서<br>원자재를 수송하기 위해 제작되었지만, 시간이 흐르며<br>지역 주민들은 그에게 애착을 갖기 시작했습니다.<br>제이스의 제작소 사람들은 그를 너겟이라고 불렀고,<br>한 필트오버 귀족은 그에게 모자를 기부했다고 하며,<br>지나다니는 아이들은 손에 쥐고 있는 걸 가지고<br>그를 꾸며주곤 합니다.",
+    "artistName": "Kudos Productions",
+    "name": "마법공학 처리사",
+    "cardCode": "05PZ029",
+    "keywords": [
+      "선제공격"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "희귀급",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [
+      "공학"
+    ],
+    "supertype": "",
+    "type": "유닛",
+    "collectible": true,
+    "set": "Set5"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI014-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -7888,8 +8756,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI013-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -7934,8 +8802,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI009-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -7979,8 +8847,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI016-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -7994,8 +8862,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "적 하나를 처치하고 이 라운드에<br>모든 적 유닛에게 -2|-0을 <nobr>일시 부여합니다.</nobr>",
-    "descriptionRaw": "적 하나를 처치하고 이 라운드에모든 적 유닛에게 -2|-0을 일시 부여합니다.",
+    "description": "유닛 하나를 처치하고 이 라운드에 모든 적 유닛에게 <nobr>-2|-0</nobr>을 <nobr>일시 부여합니다.</nobr>",
+    "descriptionRaw": "유닛 하나를 처치하고 이 라운드에 모든 적 유닛에게 -2|-0을 일시 부여합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"빛에는 그림자가, 삶에는 죽음이.\"\n- 세나",
@@ -8024,8 +8892,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI004-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8067,8 +8935,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI012-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8110,8 +8978,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI008-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8155,8 +9023,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI003-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8200,8 +9068,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI029-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8247,8 +9115,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI010-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8262,8 +9130,8 @@
     "attack": 7,
     "cost": 8,
     "health": 6,
-    "description": "소환 시 <link=card.create><style=AssociatedCard>어둠</style></link>이 없으면 손에 1장을 생성합니다. 이 라운드에 다음 <link=card.create><style=AssociatedCard>어둠</style></link>의 비용이 0이 되고 모든 적 유닛에게 피해를 입힙니다.",
-    "descriptionRaw": "소환 시 어둠이 없으면 손에 1장을 생성합니다. 이 라운드에 다음 어둠의 비용이 0이 되고 모든 적 유닛에게 피해를 입힙니다.",
+    "description": "소환 시 <link=card.create><style=AssociatedCard>어둠</style></link>이 없으면 손에 1장을 생성합니다. 이 라운드에 다음 <link=card.create><style=AssociatedCard>어둠</style></link>의 비용이 0이 되고 \"모든 적 대상에게<br>피해를 입힙니다.\" 효과를 얻습니다.",
+    "descriptionRaw": "소환 시 어둠이 없으면 손에 1장을 생성합니다. 이 라운드에 다음 어둠의 비용이 0이 되고 \"모든 적 대상에게피해를 입힙니다.\" 효과를 얻습니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"또 악몽이야?\"\n\"그렇게 나쁘진 않았어. 네가 없었거든.\"\n\"바보. 그럼 뭐가 안 좋았는데?\"\n\"네가 없었다는 거.\"",
@@ -8292,8 +9160,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI009T1-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8340,8 +9208,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI009T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI009T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI009T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI009T2-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8355,8 +9223,8 @@
     "attack": 0,
     "cost": 7,
     "health": 0,
-    "description": "적 하나를 처치하고 이 라운드에 <nobr>모든 적 유닛에게</nobr> -2|-0을 <nobr>일시 부여합니다.</nobr>\r\n내 덱에 <link=card.level1><style=AssociatedCard>세나</style></link> 1장을 생성합니다.",
-    "descriptionRaw": "적 하나를 처치하고 이 라운드에 모든 적 유닛에게 -2|-0을 일시 부여합니다.\r\n내 덱에 세나 1장을 생성합니다.",
+    "description": "유닛 하나를 처치하고 이 라운드에 <nobr>모든 적 유닛에게</nobr> <nobr>-2|-0</nobr>을 <nobr>일시 부여합니다.</nobr>\r\n내 덱에 <link=card.level1><style=AssociatedCard>세나</style></link> 1장을 생성합니다.",
+    "descriptionRaw": "유닛 하나를 처치하고 이 라운드에 모든 적 유닛에게 -2|-0을 일시 부여합니다.\r\n내 덱에 세나 1장을 생성합니다.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"빛에는 그림자가, 삶에는 죽음이.\"\n- 세나",
@@ -8385,8 +9253,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI011-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8430,8 +9298,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05SI015-full.png"
       }
     ],
     "region": "그림자 군도",
@@ -8475,8 +9343,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05IO025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05IO025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05IO025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05IO025-full.png"
       }
     ],
     "region": "아이오니아",
@@ -8516,8 +9384,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05MT009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/2_18_0/set5/ko_kr/img/cards/05MT009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05MT009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/2_19_0/set5/ko_kr/img/cards/05MT009-full.png"
       }
     ],
     "region": "타곤",
