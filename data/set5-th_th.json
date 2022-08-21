@@ -8,8 +8,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC058-full.png"
       }
     ],
     "regions": [
@@ -56,8 +56,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC010-full.png"
       }
     ],
     "regions": [
@@ -102,8 +102,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC102.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC102-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC102.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC102-full.png"
       }
     ],
     "regions": [
@@ -142,8 +142,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC010T1-full.png"
       }
     ],
     "regions": [
@@ -184,8 +184,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC099.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC099-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC099.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC099-full.png"
       }
     ],
     "regions": [
@@ -227,8 +227,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC133.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC133-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC133.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC133-full.png"
       }
     ],
     "regions": [
@@ -274,8 +274,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC202.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC202-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC202.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC202-full.png"
       }
     ],
     "regions": [
@@ -319,8 +319,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC133T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC133T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC133T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC133T1-full.png"
       }
     ],
     "regions": [
@@ -363,8 +363,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC078.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC078-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC078.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC078-full.png"
       }
     ],
     "regions": [
@@ -405,8 +405,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC086.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC086-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC086.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC086-full.png"
       }
     ],
     "regions": [
@@ -454,8 +454,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC073.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC073-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC073-full.png"
       }
     ],
     "regions": [
@@ -471,7 +471,7 @@
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ อัญเชิญ Scrappy Bomb หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "Giselle เคย<zwsp>เป็น<zwsp>หนึ่ง<zwsp>ใน<zwsp>นัก<zwsp>เรียน<zwsp>ดี<zwsp>เด่น<zwsp>ของ<zwsp>ศาส<zwsp>ตรา<zwsp>จารย์<zwsp> Heimerdinger จน<zwsp>กระ<zwsp>ทั่ง<zwsp>หล่อน<zwsp>ได้<zwsp>ข่าว<zwsp>เกี่ยว<zwsp>กับ<zwsp>การ<zwsp>ทด<zwsp>ลอง<zwsp>อัน<zwsp>พิ<zwsp>ลึก<zwsp>พิ<zwsp>ลั่น<zwsp>ของ<zwsp> Ziggs <zwsp>ซึ่ง<zwsp>อยู่<zwsp>ที่<zwsp>ซอน<zwsp> นับ<zwsp>แต่<zwsp>นั้น<zwsp>มา<zwsp>เจ้า<zwsp>ตัว<zwsp>ก็<zwsp>ดี<zwsp>แต่ \"<zwsp>ระ<zwsp>เบิด<zwsp>เฮ็กซ์<zwsp>\" <zwsp>อย่าง<zwsp>งี้<zwsp>แล้ว<zwsp>ก็ \"<zwsp>ช่วย<zwsp>แนะ<zwsp>นำ<zwsp>ให้<zwsp>ข้า<zwsp>ได้<zwsp>ไป<zwsp>ฝาก<zwsp>ตัว<zwsp>ฝึก<zwsp>งาน<zwsp>ที่<zwsp>นั่น<zwsp>ที<zwsp>\" <zwsp>อย่าง<zwsp>งั้น<zwsp> ",
+    "flavorText": "Giselle เคย<zwsp>เป็น<zwsp>หนึ่ง<zwsp>ใน<zwsp>นัก<zwsp>เรียน<zwsp>ดี<zwsp>เด่น<zwsp>ของ<zwsp>ศาส<zwsp>ตรา<zwsp>จารย์<zwsp> Heimerdinger จน<zwsp>กระ<zwsp>ทั่ง<zwsp>หล่อน<zwsp>ได้<zwsp>ข่าว<zwsp>เกี่ยว<zwsp>กับ<zwsp>การ<zwsp>ทด<zwsp>ลอง<zwsp>อัน<nobr>พิ<zwsp>ลึก<zwsp>พิ<zwsp>ลั่น</nobr>ของ<zwsp> Ziggs <zwsp>ซึ่ง<zwsp>อยู่<zwsp>ที่<zwsp>ซอน<zwsp> นับ<zwsp>แต่<zwsp>นั้น<zwsp>มา<zwsp>เจ้า<zwsp>ตัว<zwsp>ก็<zwsp>ดี<zwsp>แต่<zwsp> <nobr>\"<zwsp>ระ<zwsp>เบิด<zwsp>เฮ็กซ์<zwsp>\"</nobr> <zwsp>อย่าง<zwsp>งี้<zwsp>แล้ว<zwsp>ก็ \"<zwsp>ช่วย<zwsp>แนะ<zwsp>นำ<zwsp>ให้<zwsp>ข้า<zwsp>ได้<zwsp>ไป<zwsp>ฝาก<zwsp>ตัว<zwsp>ฝึก<zwsp>งาน<zwsp>ที่<zwsp>นั่น<zwsp>ที<zwsp>\" <zwsp>อย่าง<zwsp>งั้น<zwsp> ",
     "artistName": "Kudos Productions",
     "name": "Inventive Chemist",
     "cardCode": "05BC073",
@@ -494,8 +494,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC039-full.png"
       }
     ],
     "regions": [
@@ -538,8 +538,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC148.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC148-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC148.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC148-full.png"
       }
     ],
     "regions": [
@@ -584,8 +584,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC173.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC173-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC173.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC173-full.png"
       }
     ],
     "regions": [
@@ -631,8 +631,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC119.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC119-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC119.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC119-full.png"
       }
     ],
     "regions": [
@@ -646,8 +646,8 @@
     "attack": 2,
     "cost": 2,
     "health": 1,
-    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: สร้างการ์ดเสมือน<br>ของการ์ดใบนี้หนึ่งใบในมือ<br>ตอน<link=vocab.RoundEnd><style=Vocab>จบรอบ</style></link>",
-    "descriptionRaw": "สิ้นลม: สร้างการ์ดเสมือนของการ์ดใบนี้หนึ่งใบในมือตอนจบรอบ",
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: <zwsp>สร้าง<zwsp>การ์ด<zwsp>เสมือน<zwsp>ของ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ<zwsp>เมื่อ<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>ถัด<zwsp>ไป",
+    "descriptionRaw": "สิ้นลม: สร้างการ์ดเสมือนของการ์ดใบนี้หนึ่งใบในมือเมื่อเริ่มรอบถัดไป",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"<zwsp>ยอด<zwsp>วาย<zwsp>ร้าย<zwsp>ที่<zwsp>แท้<zwsp>จริง<zwsp>มี<zwsp>มิน<zwsp>เนี่ยน<zwsp>เท่า<zwsp>ไร<zwsp>ก็<zwsp>ไม่<zwsp>เคย<zwsp>พอ<zwsp>! <zwsp>เจ้า<zwsp>ตัว<zwsp>เล็ก<zwsp>ที่<zwsp>รู้<zwsp>ฐา<zwsp>นะ<zwsp>ของ<zwsp>ตัว<zwsp>เอง<zwsp> เชื่อ<zwsp>ฟัง<zwsp>ทุก<zwsp>คำ<zwsp>พูด<zwsp>ของ<zwsp>คุณ<zwsp> <zwsp>และ<zwsp>กลับ<zwsp>มา<zwsp>รับ<zwsp>คำ<zwsp>สั่ง<zwsp>เพิ่ม<zwsp>เติม<zwsp>เสมอ\"<zwsp>\n-<zwsp> ตัด<zwsp>ตอน<zwsp>จาก<zwsp>บท<zwsp>ที่<zwsp> 2 <zwsp>ของ \"<zwsp>วิ<zwsp>ธี<zwsp>เป็น<zwsp>ยอด<zwsp>วาย<zwsp>ร้าย<zwsp>\" <zwsp>โดย<zwsp>ลอร์<zwsp>ด Veigar",
@@ -679,8 +679,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC093.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC093-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC093.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC093-full.png"
       }
     ],
     "regions": [
@@ -724,8 +724,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC093T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC093T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC093T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC093T1-full.png"
       }
     ],
     "regions": [
@@ -770,8 +770,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC093T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC093T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC093T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC093T2-full.png"
       }
     ],
     "regions": [
@@ -813,8 +813,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC007-full.png"
       }
     ],
     "regions": [
@@ -830,7 +830,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "เหล่า<zwsp>ยอร์<zwsp>เดิล<zwsp>ยัง<zwsp>ไม่<zwsp>ค่อย<zwsp>เข้า<zwsp>ใจ<zwsp>แรง<zwsp>โน้ม<zwsp>ถ่วง<zwsp>เท่า<zwsp>ไหร่ <zwsp>แต่<zwsp>แรง<zwsp>โน้ม<zwsp>ถ่วง<zwsp>เอง<zwsp>ก็<zwsp>ยัง<zwsp>ไม่<zwsp>ค่อย<zwsp>เข้า<zwsp>ใจ<zwsp>แบน<zwsp>เดิล<zwsp>ซิ<zwsp>ตี้<zwsp>เหมือน<zwsp>กัน",
+    "flavorText": "เหล่า<zwsp>ยอร์<zwsp>เดิล<zwsp>ยัง<zwsp>ไม่<zwsp>ค่อย<zwsp>เข้า<zwsp>ใจ<zwsp>แรง<zwsp>โน้ม<zwsp>ถ่วง<zwsp>เท่า<zwsp>ไหร่ <zwsp>แต่<nobr>แรง<zwsp>โน้ม<zwsp>ถ่วง</nobr>เอง<zwsp>ก็<zwsp>ยัง<zwsp>ไม่<zwsp>ค่อย<zwsp>เข้า<zwsp>ใจ<zwsp>แบน<zwsp>เดิล<zwsp>ซิ<zwsp>ตี้<zwsp>เหมือน<zwsp>กัน",
     "artistName": "Kudos Productions",
     "name": "Stone Stackers",
     "cardCode": "05BC007",
@@ -857,8 +857,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC185.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC185-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC185.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC185-full.png"
       }
     ],
     "regions": [
@@ -901,8 +901,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC096.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC096-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC096-full.png"
       }
     ],
     "regions": [
@@ -920,7 +920,7 @@
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หากคุณเคยเล่นการ์ดที่ถูกสร้างหรือสังหารยูนิตด้วยเวทไปแล้วในเกมนี้ อัญเชิญBass of Burden หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "หาก Veigar จำเป็นต้องมีผู้ช่วยสำหรับการกระทำที่สวนทางทำนอง<br>คลองธรรมของเขา<br>ก็คงไม่มีใครเหมาะกับภารกิจนั้นมากไปกว่าสองคนนี้แล้ว ทั้งสองช่ำชองเรื่องท่วงทำนอง ยกเว้นเรื่องบันไดเสียง",
+    "flavorText": "หาก<zwsp> Veigar <zwsp>จำ<zwsp>เป็น<zwsp>ต้อง<zwsp>มี<zwsp>ผู้<zwsp>ช่วย<zwsp>สำ<zwsp>หรับ<zwsp>การ<zwsp>กระ<zwsp>ทำ<zwsp>ที่<zwsp>สวน<zwsp>ทาง<nobr>ทำ<zwsp>นอง<zwsp>คลอง<zwsp>ธรรม</nobr>ของ<zwsp>เขา<zwsp> ก็<zwsp>คง<nobr>ไม่<zwsp>มี</nobr>ใคร<nobr>เหมาะ<zwsp>กับ</nobr><nobr>ภาร<zwsp>กิจ</nobr>นั้น<zwsp>มาก<zwsp>ไป<zwsp>กว่า<zwsp>สอง<zwsp>คน<zwsp>นี้<zwsp>แล้ว<zwsp> <zwsp>ทั้ง<zwsp>สอง<zwsp>ช่ำ<zwsp>ชอง<zwsp>เรื่อง<zwsp>ท่วง<zwsp>ทำ<zwsp>นอง<zwsp> <nobr>ยก<zwsp>เว้น</nobr>เรื่อง<zwsp>บัน<zwsp>ได<zwsp>เสียง",
     "artistName": "Kudos Productions",
     "name": "Tenor of Terror",
     "cardCode": "05BC096",
@@ -947,8 +947,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC096T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC096T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC096T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC096T1-full.png"
       }
     ],
     "regions": [
@@ -996,8 +996,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC088.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC088-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC088.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC088-full.png"
       }
     ],
     "regions": [
@@ -1042,8 +1042,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC088T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC088T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC088T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC088T2-full.png"
       }
     ],
     "regions": [
@@ -1096,8 +1096,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC088T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC088T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC088T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC088T1-full.png"
       }
     ],
     "regions": [
@@ -1140,8 +1140,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC056.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC056-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC056-full.png"
       }
     ],
     "regions": [
@@ -1180,8 +1180,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC190.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC190-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC190.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC190-full.png"
       }
     ],
     "regions": [
@@ -1222,8 +1222,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC042-full.png"
       }
     ],
     "regions": [
@@ -1239,7 +1239,7 @@
     "descriptionRaw": "พันธมิตรหนึ่งใบเติบโตเป็น 3|3 ในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "“<zwsp>ข้า<zwsp>ก็<zwsp>เคย<zwsp>เป็น<zwsp>เหมือน<zwsp>เจ้า<zwsp> ขนาด<zwsp>เห็ด<zwsp>พัฟฟ์<zwsp>แค็ป<zwsp>หนึ่ง<zwsp>ดอก<zwsp>ยัง<zwsp>ยก<zwsp>ไม่<zwsp>ขึ้น <zwsp>แต่<zwsp>แล้ว<zwsp>ข้า<zwsp>ก็<zwsp>ค้น<zwsp>พบ<zwsp> “<zwsp>น้ำ<zwsp>ปั่น<zwsp>สูตร<zwsp>เพอร์<zwsp>เพิร์ล<zwsp>เบอร์<zwsp>รี<zwsp>” <zwsp>ที่<zwsp>มี<zwsp>ทุก<zwsp>อย่าง<zwsp>ที่<zwsp>ยอร์<zwsp>เดิล<zwsp>ต้อง<zwsp>การ<zwsp>เพื่อ<zwsp>จะ<zwsp>ก้าว<zwsp>กระ<zwsp>โด<zwsp>จาก<zwsp>ศูนย์<zwsp>เป็น<zwsp>สุด<zwsp>ยอด <zwsp>ดัง<zwsp>นั้น<zwsp>หลัง<zwsp>จาก<zwsp>ที่<zwsp>เจ้า<zwsp>ออก<zwsp>กำ<zwsp>ลัง<zwsp>อย่าง<zwsp>หนัก<zwsp> ก็<zwsp>อย่า<zwsp>ลืม<zwsp>เติม<zwsp>พลัง<zwsp>ด้วย<zwsp> ‘<zwsp>น้ำ<zwsp>ปั่น<zwsp>’ <zwsp>จะ<zwsp>ได้<zwsp>มี<zwsp>กล้าม<zwsp>สุด<zwsp>บึก<zwsp>บึน<zwsp>เหมือน<zwsp>ข้า<zwsp>!” \n<zwsp>- <zwsp>แผ่น<zwsp>โฆ<zwsp>ษณา",
+    "flavorText": "“<zwsp>ข้า<zwsp>ก็<zwsp>เคย<zwsp>เป็น<zwsp>เหมือน<zwsp>เจ้า<zwsp> ขนาด<zwsp>เห็ด<zwsp>พัฟฟ์<zwsp>แค็ป<zwsp>หนึ่ง<zwsp>ดอก<zwsp>ยัง<zwsp>ยก<nobr>ไม่<zwsp>ขึ้น</nobr> <zwsp>แต่<zwsp>แล้ว<zwsp>ข้า<zwsp>ก็<zwsp>ค้น<zwsp>พบ<zwsp> “<zwsp>น้ำ<zwsp>ปั่น<zwsp>สูตร<zwsp>เพอร์<zwsp>เพิร์ล<zwsp>เบอร์<zwsp>รี<zwsp>” <zwsp>ที่<zwsp>มี<nobr>ทุก<zwsp>อย่าง</nobr>ที่<zwsp>ยอร์<zwsp>เดิล<zwsp>ต้อง<zwsp>การ<zwsp>เพื่อ<zwsp>จะ<zwsp>ก้าว<zwsp>กระ<zwsp>โด<zwsp>จาก<zwsp>ศูนย์<zwsp>เป็น<nobr>สุด<zwsp>ยอด</nobr> <zwsp>ดัง<zwsp>นั้น<zwsp>หลัง<zwsp>จาก<zwsp>ที่<zwsp>เจ้า<zwsp>ออก<zwsp>กำ<zwsp>ลัง<zwsp>อย่าง<zwsp>หนัก<zwsp> ก็<zwsp>อย่า<zwsp>ลืม<zwsp>เติม<zwsp>พลัง<zwsp>ด้วย<zwsp> ‘<zwsp>น้ำ<zwsp>ปั่น<zwsp>’ <zwsp>จะ<zwsp>ได้<zwsp>มี<zwsp>กล้าม<zwsp>สุด<zwsp>บึก<zwsp>บึน<zwsp>เหมือน<zwsp>ข้า<zwsp>!” \n<zwsp>- <zwsp>แผ่น<zwsp>โฆ<zwsp>ษณา",
     "artistName": "Kudos Productions",
     "name": "Purpleberry Shake",
     "cardCode": "05BC042",
@@ -1264,8 +1264,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC205.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC205-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC205.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC205-full.png"
       }
     ],
     "regions": [
@@ -1308,8 +1308,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC223.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC223-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC223.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC223-full.png"
       }
     ],
     "regions": [
@@ -1352,8 +1352,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC223T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC223T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC223T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC223T2-full.png"
       }
     ],
     "regions": [
@@ -1396,8 +1396,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC223T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC223T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC223T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC223T1-full.png"
       }
     ],
     "regions": [
@@ -1441,8 +1441,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC058T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC058T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC058T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC058T3-full.png"
       }
     ],
     "regions": [
@@ -1483,8 +1483,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC058T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC058T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC058T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC058T5-full.png"
       }
     ],
     "regions": [
@@ -1531,8 +1531,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC058T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC058T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC058T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC058T2-full.png"
       }
     ],
     "regions": [
@@ -1546,8 +1546,8 @@
     "attack": 3,
     "cost": 1,
     "health": 2,
-    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> บ<zwsp>ล็อก <zwsp>หรือ<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <zwsp>สร้าง<zwsp> <link=card.cast><style=AssociatedCard>Mark of the Storm</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ บล็อก หรือโจมตี: สร้าง Mark of the Storm หนึ่งใบในมือ",
+    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ถูกบล็อก <br>หรือ<link=vocab.Attack><style=Vocab>โจมตี</style></link>: สร้าง <link=card.cast><style=AssociatedCard>Mark of the Storm</style></link> <br>หนึ่งใบในมือ",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ ถูกบล็อก หรือโจมตี: สร้าง Mark of the Storm หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"<zwsp>เรา<zwsp>คือ<zwsp>สาย<zwsp>ลม<zwsp>และ<zwsp>สาย<zwsp>ฟ้า<zwsp>! <zwsp>เรา<zwsp>คือ<zwsp>อัส<zwsp>นี<zwsp>และ<zwsp>หยาด<zwsp>ฝน<zwsp>! <zwsp>นี่<zwsp>แหละ<zwsp>คือ<zwsp>..<zwsp>. <zwsp>พลัง<zwsp>วา<zwsp>ยุ!<zwsp>\"",
@@ -1577,8 +1577,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC091.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC091-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC091.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC091-full.png"
       }
     ],
     "regions": [
@@ -1621,8 +1621,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC172.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC172-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC172.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC172-full.png"
       }
     ],
     "regions": [
@@ -1672,8 +1672,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163-full.png"
       }
     ],
     "regions": [
@@ -1691,7 +1691,7 @@
     "descriptionRaw": "โจมตี: สร้างความเสียหาย 1 หน่วยแก่ผู้ที่บล็อกการ์ดใบนี้และเน็กซัสของศัตรู",
     "levelupDescription": "คุณทำลายแลนด์มาร์คพันธมิตร<br>อย่างน้อย 4 ใบในเกมนี้<style=Variable></style>",
     "levelupDescriptionRaw": "คุณทำลายแลนด์มาร์คพันธมิตรอย่างน้อย 4 ใบในเกมนี้",
-    "flavorText": "\"<zwsp>เรา<zwsp>ต้อง<zwsp>สร้าง<zwsp>ความ<zwsp>ประ<zwsp>ทับ<zwsp>ใจ<zwsp>แรก<zwsp>พบ<zwsp>ที่<zwsp>ดี<zwsp>ให้<zwsp>พวก<zwsp>เขา <zwsp>สำ<zwsp>คัญ<zwsp>มาก<zwsp>นะ<zwsp>! <zwsp>เจ้า<zwsp>หน้า<zwsp>ที่<zwsp>ตรวจ<zwsp>ความ<zwsp>ปลอด<zwsp>ภัย<zwsp>คน<zwsp>ใหม่<zwsp>จะ<zwsp>แวะ<zwsp>มา <zwsp>แล้ว<zwsp>เจ้า<zwsp>ก็<zwsp>รู้<zwsp>ว่า<zwsp>หมาย<zwsp>ความ<zwsp>ว่า<zwsp>ยัง<zwsp>ไง<zwsp>!\"\n\"<zwsp>ห้าม<zwsp>ระ<zwsp>เบิด<zwsp>อีก<zwsp>?\"\n\"<zwsp>ห๊ะ<zwsp>?! <zwsp>ไม่<zwsp>ใช่<zwsp>แล้ว<zwsp>! <zwsp>หมาย<zwsp>ความ<zwsp>ว่า<zwsp>เรา<zwsp>ต้อง<zwsp>ไป<zwsp>ระ<zwsp>เบิด<zwsp>ใน<zwsp>ที่<zwsp>ที่<zwsp>เขา<zwsp>ไม่<zwsp>เห็น<zwsp>ต่าง<zwsp>หาก<zwsp>! <zwsp>พูด<zwsp>มา<zwsp>ได้<zwsp>ยัง<zwsp>ไง<zwsp> '<zwsp>ห้าม<zwsp>ระ<zwsp>เบิด<zwsp>อีก<zwsp>'..<zwsp>. <zwsp>เจ้า<zwsp>บ้า<zwsp>ไป<zwsp>แล้ว<zwsp>งั้น<zwsp>เร<zwsp>อะ<zwsp>?!\"<zwsp> -<zwsp> Ziggs <zwsp>และ<zwsp> Otto",
+    "flavorText": "\"<zwsp>เรา<zwsp>ต้อง<zwsp>สร้าง<zwsp>ความ<zwsp>ประ<zwsp>ทับ<zwsp>ใจ<zwsp>แรก<zwsp>พบ<zwsp>ที่<zwsp>ดี<zwsp>ให้<zwsp>พวก<zwsp>เขา <zwsp>สำ<zwsp>คัญ<zwsp>มาก<zwsp>นะ<zwsp>! <zwsp>เจ้า<zwsp>หน้า<zwsp>ที่<zwsp>ตรวจ<zwsp>ความ<zwsp>ปลอด<zwsp>ภัย<zwsp>คน<zwsp>ใหม่<zwsp>จะ<zwsp>แวะ<zwsp>มา <zwsp>แล้ว<zwsp>เจ้า<zwsp>ก็<zwsp>รู้<zwsp>ว่า<zwsp>หมาย<zwsp>ความ<zwsp>ว่า<zwsp>ยัง<zwsp>ไง<zwsp>!\"\n\"<zwsp>ห้าม<zwsp>ระ<zwsp>เบิด<zwsp>อีก<zwsp>?\"\n\"<zwsp>ห๊ะ<zwsp>?! <zwsp>ไม่<zwsp>ใช่<zwsp>แล้ว<zwsp>! <zwsp>หมาย<zwsp>ความ<zwsp>ว่า<zwsp>เรา<zwsp>ต้อง<zwsp>ไป<zwsp>ระ<zwsp>เบิด<zwsp>ใน<zwsp>ที่<zwsp>ที่<zwsp>เขา<zwsp>ไม่<zwsp>เห็น<zwsp>ต่าง<zwsp>หาก<zwsp>! <zwsp>พูด<zwsp>มา<zwsp>ได้<zwsp>ยัง<zwsp>ไง<zwsp> '<zwsp>ห้าม<zwsp>ระ<zwsp>เบิด<zwsp>อีก<zwsp>'..<zwsp>. <zwsp>เจ้า<zwsp>บ้า<zwsp>ไป<zwsp>แล้ว<nobr>งั้น<zwsp>เร<zwsp>อะ<zwsp>?!<zwsp>\"</nobr> -<zwsp> Ziggs <zwsp>และ<zwsp> Otto",
     "artistName": "SIXMOREVODKA",
     "name": "Ziggs",
     "cardCode": "05BC163",
@@ -1717,8 +1717,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T3-full.png"
       }
     ],
     "regions": [
@@ -1761,8 +1761,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T4-full.png"
       }
     ],
     "regions": [
@@ -1808,8 +1808,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T6-full.png"
       }
     ],
     "regions": [
@@ -1853,8 +1853,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T7-full.png"
       }
     ],
     "regions": [
@@ -1899,8 +1899,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T1-full.png"
       }
     ],
     "regions": [
@@ -1918,7 +1918,7 @@
     "descriptionRaw": "โจมตี: สร้างความเสียหาย2 หน่วยแก่ผู้ที่บล็อกการ์ดใบนี้และเน็กซัสของศัตรูเมื่อแลนด์มาร์คพันธมิตรถูกทำลายสร้างความเสียหาย 2 หน่วยแก่เน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>เรา<zwsp>ผ่าน<zwsp>เหรอ?<zwsp>! <zwsp>เรา<zwsp>ผ่าน<zwsp>แล้ว<zwsp>!\"\n\"<zwsp>เฮ<zwsp>อะ<zwsp> จะ<zwsp>บอก<zwsp> '<zwsp>ผ่าน<zwsp>' <zwsp>ก็<zwsp>เกิน<zwsp>ไป<zwsp>หน่อย<zwsp>..<zwsp>. <zwsp>แต่<zwsp>ให้<zwsp>ตาย<zwsp>เถอะ<zwsp> โชว์<zwsp>ของ<zwsp>พวก<zwsp>เจ้า<zwsp>มัน<zwsp>ช่าง<zwsp>น่า<zwsp>ทึ่ง<zwsp>เสีย<zwsp>จริง!\"<zwsp> -<zwsp> Ziggs <zwsp>และ<zwsp> Wilfred <zwsp>ผู้<zwsp>ตรวจ<zwsp>สอบ<zwsp>ความ<zwsp>ปลอด<zwsp>ภัย<zwsp> ",
+    "flavorText": "\"<zwsp>เรา<zwsp>ผ่าน<zwsp>เหรอ?<zwsp>! <zwsp>เรา<zwsp>ผ่าน<zwsp>แล้ว<zwsp>!\"\n\"<zwsp>เฮ<zwsp>อะ<zwsp> จะ<zwsp>บอก<zwsp> '<zwsp>ผ่าน<zwsp>' <zwsp>ก็<zwsp>เกิน<zwsp>ไป<zwsp>หน่อย<zwsp>..<zwsp>. <zwsp>แต่<zwsp>ให้<zwsp>ตาย<zwsp>เถอะ<zwsp> โชว์<zwsp>ของ<zwsp>พวก<zwsp>เจ้า<zwsp>มัน<zwsp>ช่าง<zwsp>น่า<zwsp>ทึ่ง<zwsp>เสีย<zwsp>จริง!\"<zwsp> -<zwsp> Ziggs <zwsp>และ<zwsp> Wilfred <nobr>ผู้<zwsp>ตรวจ<zwsp>สอบ</nobr>ความ<zwsp>ปลอด<zwsp>ภัย<zwsp> ",
     "artistName": "SIXMOREVODKA",
     "name": "Ziggs",
     "cardCode": "05BC163T1",
@@ -1943,8 +1943,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC163T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC163T5-full.png"
       }
     ],
     "regions": [
@@ -1987,8 +1987,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC151.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC151-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC151.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC151-full.png"
       }
     ],
     "regions": [
@@ -2027,8 +2027,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC027-full.png"
       }
     ],
     "regions": [
@@ -2069,8 +2069,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC021-full.png"
       }
     ],
     "regions": [
@@ -2113,8 +2113,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC167.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC167-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC167.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC167-full.png"
       }
     ],
     "regions": [
@@ -2126,7 +2126,7 @@
     "attack": 1,
     "cost": 2,
     "health": 2,
-    "description": "<link=vocab.NexusStrike><style=Vocab>จู่โจมเน็กซัส</style></link>: <zwsp>สร้าง<zwsp> <link=card.create><style=AssociatedCard>Hungry Owlcat</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ",
+    "description": "<link=vocab.NexusStrike><style=Vocab>จู่โจมเน็กซัส</style></link>: <zwsp>สร้าง<zwsp> <link=card.create><style=AssociatedCard>Hungry Owlcat</style></link> <nobr>หนึ่ง<zwsp>ใบ</nobr>ใน<zwsp>มือ",
     "descriptionRaw": "จู่โจมเน็กซัส: สร้าง Hungry Owlcat หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2157,8 +2157,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC179.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC179-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC179.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC179-full.png"
       }
     ],
     "regions": [
@@ -2203,8 +2203,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC214.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC214-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC214.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC214-full.png"
       }
     ],
     "regions": [
@@ -2248,8 +2248,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC041-full.png"
       }
     ],
     "regions": [
@@ -2267,7 +2267,7 @@
     "descriptionRaw": "โจมตี: มอบ +1|+1 แก่พันธมิตรทั้งหมดที่มีพลังโจมตีเท่ากับหรือน้อยกว่าการ์ดใบนี้",
     "levelupDescription": "การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>โจม<zwsp>ตี<zwsp>พร้อม<zwsp>พันธ<zwsp>มิตร<zwsp>มา<zwsp>แล้ว<zwsp> 3 <zwsp>ครั้ง<style=Variable></style>",
     "levelupDescriptionRaw": "การ์ดใบนี้โจมตีพร้อมพันธมิตรมาแล้ว 3 ครั้ง",
-    "flavorText": "ความ<zwsp>ถ่อม<zwsp>ตน<zwsp>คือ<zwsp>เครื่อง<zwsp>หมาย<zwsp>ของ<zwsp>ผู้<zwsp>เป็น<zwsp>วีร<zwsp>ชน <zwsp>แต่<zwsp>นัก<zwsp>ประ<zwsp>วัติ<zwsp>ศาสตร์<zwsp>หลาย<zwsp>คน<zwsp>ก็<zwsp>เห็น<zwsp>ตรง<zwsp>กัน<zwsp>ว่า<zwsp> Poppy <zwsp>มี<zwsp>คุณ<zwsp>ธรรม<zwsp>ข้อ<zwsp>นั้น<zwsp>มาก<zwsp>ไป<zwsp>หน่อย",
+    "flavorText": "ความ<zwsp>ถ่อม<zwsp>ตน<zwsp>คือ<zwsp>เครื่อง<zwsp>หมาย<zwsp>ของ<zwsp>ผู้<zwsp>เป็น<zwsp>วีร<zwsp>ชน <zwsp>แต่<nobr>นัก<zwsp>ประ<zwsp>วัติ<zwsp>ศาสตร์</nobr>หลาย<zwsp>คน<zwsp>ก็<zwsp>เห็น<zwsp>ตรง<zwsp>กัน<zwsp>ว่า<zwsp> Poppy <zwsp>มี<nobr>คุณ<zwsp>ธรรม</nobr>ข้อ<zwsp>นั้น<zwsp>มาก<zwsp>ไป<zwsp>หน่อย",
     "artistName": "Dao Le",
     "name": "Poppy",
     "cardCode": "05BC041",
@@ -2290,8 +2290,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC105.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC105-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC105.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC105-full.png"
       }
     ],
     "regions": [
@@ -2303,7 +2303,7 @@
     "attack": 7,
     "cost": 8,
     "health": 7,
-    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ <zwsp>หาก<zwsp>คุณ<zwsp>เคย<zwsp>อัญ<zwsp>เชิญ<zwsp>ยู<zwsp>นิต<zwsp>จาก<zwsp>ภูมิ<zwsp>ภาค<zwsp>ที่<zwsp>ต่าง<zwsp>กัน<zwsp>มา<zwsp>แล้ว<zwsp>อย่าง<zwsp>น้อย<zwsp> 4 <zwsp>ภูมิ<zwsp>ภาค<zwsp>ใน<zwsp>เกม<zwsp>นี้ <zwsp>ให้<zwsp>มอบ<link=keyword.Impact><sprite name=Impact><style=Keyword>สะเทือน</style></link>แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp> 4 <zwsp>ครั้ง<style=Variable></style>",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ <zwsp>หาก<zwsp>คุณ<zwsp>เคย<nobr>อัญ<zwsp>เชิญ</nobr>ยู<zwsp>นิต<zwsp>จาก<zwsp>ภูมิ<zwsp>ภาค<zwsp>ที่<zwsp>ต่าง<zwsp>กัน<zwsp>มา<zwsp>แล้ว<nobr>อย่าง<zwsp>น้อย</nobr> 4 <zwsp>ภูมิ<zwsp>ภาค<zwsp>ใน<zwsp>เกม<zwsp>นี้ <zwsp>ให้<zwsp>มอบ<link=keyword.Impact><sprite name=Impact><style=Keyword>สะเทือน</style></link>แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp> 4 <zwsp>ครั้ง<style=Variable></style>",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หากคุณเคยอัญเชิญยูนิตจากภูมิภาคที่ต่างกันมาแล้วอย่างน้อย 4 ภูมิภาคในเกมนี้ ให้มอบสะเทือนแก่การ์ดใบนี้ 4 ครั้ง",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2334,8 +2334,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC136.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC136-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC136.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC136-full.png"
       }
     ],
     "regions": [
@@ -2378,8 +2378,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC164.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC164-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC164.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC164-full.png"
       }
     ],
     "regions": [
@@ -2420,8 +2420,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC194.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC194-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC194.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC194-full.png"
       }
     ],
     "regions": [
@@ -2464,8 +2464,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC127.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC127-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC127.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC127-full.png"
       }
     ],
     "regions": [
@@ -2506,8 +2506,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC127T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC127T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC127T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC127T1-full.png"
       }
     ],
     "regions": [
@@ -2523,7 +2523,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "เมฆ<zwsp>พา<zwsp>ยุ<zwsp>เข้า<zwsp>ปะ<zwsp>ทะ<zwsp>กับ<zwsp>อสูร<zwsp>กาย <zwsp>สาย<zwsp>ฟ้า<zwsp>และ<zwsp>กลุ่ม<zwsp>หมอก<zwsp>พัว<zwsp>พัน<zwsp> อ<zwsp>สูร<zwsp>ร้าย<zwsp>ส่ง<zwsp>เสียง<zwsp>หอน<zwsp>ออก<zwsp>มา<zwsp>ใน<zwsp>ขณะ<zwsp>ที่<zwsp>มัน<zwsp>ล้ม<zwsp>ลง<zwsp>ไป<zwsp>กับ<zwsp>พื้น <zwsp>ตา<zwsp>ของ<zwsp>มัน<zwsp>กรอก<zwsp>กลับ<zwsp>ไป<zwsp>ด้าน<zwsp>หลัง<zwsp> Kennen <zwsp>ค่อย <zwsp>ๆ<zwsp> <zwsp>เข้า<zwsp>ไป<zwsp>ใกล้<zwsp>ผ่าน<zwsp>หมอก<zwsp>ที่<zwsp>กำ<zwsp>ลัง<zwsp>สลาย<zwsp>ไป<zwsp>ของ<zwsp>เมฆ<zwsp>พา<zwsp>ยุ <zwsp>ภา<zwsp>คี<zwsp>คิน<zwsp>โค<zwsp>ได้<zwsp>รับ<zwsp>ชัย<zwsp>ชนะ<zwsp> แต่<zwsp>ก็<zwsp>คง<zwsp>เป็น<zwsp>ชัย<zwsp>ที่<zwsp>อยู่<zwsp>ได้<zwsp>ไม่<zwsp>นาน <zwsp>ยัง<zwsp>คง<zwsp>มี<zwsp>ภัย<zwsp>ร้าย<zwsp>อื่น<zwsp> อ<zwsp>สูร<zwsp>กาย<zwsp>ตน<zwsp>อื่น <zwsp>แต่<zwsp>ครั้ง<zwsp>นี้<zwsp>พวก<zwsp>เขา<zwsp>จะ<zwsp>พร้อม<zwsp>รับ<zwsp>มือ<zwsp>มัน",
+    "flavorText": "เมฆ<zwsp>พา<zwsp>ยุ<zwsp>เข้า<zwsp>ปะ<zwsp>ทะ<zwsp>กับ<nobr>อสูร<zwsp>กาย</nobr> <zwsp>สาย<zwsp>ฟ้า<zwsp>และ<zwsp>กลุ่ม<zwsp>หมอก<zwsp>พัว<zwsp>พัน<zwsp> อ<zwsp>สูร<zwsp>ร้าย<zwsp>ส่ง<zwsp>เสียง<zwsp>หอน<zwsp>ออก<zwsp>มา<zwsp>ใน<zwsp>ขณะ<zwsp>ที่<zwsp>มัน<zwsp>ล้ม<zwsp>ลง<zwsp>ไป<zwsp>กับ<zwsp>พื้น <zwsp>ตา<zwsp>ของ<zwsp>มัน<zwsp>กรอก<zwsp>กลับ<zwsp>ไป<zwsp>ด้าน<zwsp>หลัง<zwsp> Kennen <zwsp>ค่อย <zwsp>ๆ<zwsp> <zwsp>เข้า<zwsp>ไป<zwsp>ใกล้<zwsp>ผ่าน<zwsp>หมอก<zwsp>ที่<nobr>กำ<zwsp>ลัง</nobr>สลาย<zwsp>ไป<zwsp>ของ<zwsp>เมฆ<zwsp>พา<zwsp>ยุ <zwsp>ภา<zwsp>คี<zwsp>คิน<zwsp>โค<zwsp>ได้<zwsp>รับ<zwsp>ชัย<zwsp>ชนะ<zwsp> แต่<zwsp>ก็<zwsp>คง<zwsp>เป็น<zwsp>ชัย<zwsp>ที่<zwsp>อยู่<zwsp>ได้<zwsp>ไม่<zwsp>นาน <zwsp>ยัง<zwsp>คง<zwsp>มี<zwsp>ภัย<zwsp>ร้าย<zwsp>อื่น<zwsp> อ<zwsp>สูร<zwsp>กาย<zwsp>ตน<zwsp>อื่น <zwsp>แต่<zwsp>ครั้ง<zwsp>นี้<nobr>พวก<zwsp>เขา</nobr>จะ<zwsp>พร้อม<zwsp>รับ<zwsp>มือ<zwsp>มัน",
     "artistName": "Kudos Productions",
     "name": "Stormcloud",
     "cardCode": "05BC127T1",
@@ -2548,8 +2548,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC195.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC195-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC195.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC195-full.png"
       }
     ],
     "regions": [
@@ -2590,8 +2590,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC216.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC216-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC216.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC216-full.png"
       }
     ],
     "regions": [
@@ -2603,7 +2603,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "ทำ<zwsp>ลาย<zwsp>แลนด์<zwsp>มาร์ค<zwsp>หนึ่ง<zwsp>ใบ <zwsp>หรือ<zwsp>สร้าง<zwsp>ผู้<zwsp>ติด<zwsp>ตาม<zwsp>หลาย<zwsp>ภูมิ<zwsp>ภาค<zwsp>แบบ<zwsp>สุ่ม<zwsp> 2 <zwsp>ใบ<zwsp>ใน<zwsp>มือ",
+    "description": "ทำ<zwsp>ลาย<zwsp>แลนด์<zwsp>มาร์ค<zwsp>หนึ่ง<zwsp>ใบ <zwsp>หรือ<zwsp>สร้าง<nobr>ผู้<zwsp>ติด<zwsp>ตาม</nobr>หลาย<zwsp>ภูมิ<zwsp>ภาค<zwsp>แบบ<zwsp>สุ่ม<zwsp> 2 <zwsp>ใบ<zwsp>ใน<zwsp>มือ",
     "descriptionRaw": "ทำลายแลนด์มาร์คหนึ่งใบ หรือสร้างผู้ติดตามหลายภูมิภาคแบบสุ่ม 2 ใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2632,8 +2632,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC216T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC216T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC216T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC216T2-full.png"
       }
     ],
     "regions": [
@@ -2674,8 +2674,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC216T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC216T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC216T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC216T1-full.png"
       }
     ],
     "regions": [
@@ -2718,8 +2718,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC212.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC212-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC212.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC212-full.png"
       }
     ],
     "regions": [
@@ -2731,7 +2731,7 @@
     "attack": 6,
     "cost": 6,
     "health": 6,
-    "description": "<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: <zwsp>สร้าง<zwsp> <link=card.create><style=AssociatedCard>Inspection Passed!</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ",
+    "description": "<link=vocab.RoundStart><style=Vocab>เริ่มรอบ</style></link>: <zwsp>สร้าง<zwsp> <link=card.create><style=AssociatedCard>Inspection Passed!</style></link> <nobr>หนึ่ง<zwsp>ใบ</nobr>ใน<zwsp>มือ",
     "descriptionRaw": "เริ่มรอบ: สร้าง Inspection Passed! หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2758,8 +2758,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC212T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC212T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC212T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC212T1-full.png"
       }
     ],
     "regions": [
@@ -2802,8 +2802,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC209.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC209-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC209.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC209-full.png"
       }
     ],
     "regions": [
@@ -2819,7 +2819,7 @@
     "descriptionRaw": "ตั้งค่าพลังของยูนิตเป็น 1|6 ในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "ตาม<zwsp>ปก<zwsp>ติ<zwsp>แล้ว<zwsp> บอล์ก<zwsp>คา<zwsp>ทริซ<zwsp>เป็น<zwsp>สัตว์<zwsp>พา<zwsp>หนะ<zwsp>ที่<zwsp>ซื่อ<zwsp>สัตย์<zwsp>และ<zwsp>มั่น<zwsp>คง <zwsp>แต่<zwsp>ถ้า<zwsp>มัน<zwsp>ถูก<zwsp>กด<zwsp>ดัน<zwsp>มาก<zwsp>เกิน<zwsp>ไป <zwsp>มัน<zwsp>อาจ<zwsp>ตอบ<zwsp>สนอง<zwsp>ด้วย<zwsp>วิ<zwsp>ธี<zwsp>ที่<zwsp>... <zwsp>ผิด<zwsp>แปลก<zwsp>ไป<zwsp>จาก<zwsp>ปก<zwsp>ติ",
+    "flavorText": "ตาม<zwsp>ปก<zwsp>ติ<zwsp>แล้ว<zwsp> บอล์ก<zwsp>คา<zwsp>ทริซ<zwsp>เป็น<zwsp>สัตว์<zwsp>พา<zwsp>หนะ<zwsp>ที่<zwsp>ซื่อ<zwsp>สัตย์<zwsp>และ<zwsp>มั่น<zwsp>คง <zwsp>แต่<zwsp>ถ้า<zwsp>มัน<zwsp>ถูก<zwsp>กด<zwsp>ดัน<zwsp>มาก<zwsp>เกิน<zwsp>ไป <zwsp>มัน<zwsp>อาจ<zwsp>ตอบ<zwsp>สนอง<zwsp>ด้วย<zwsp>วิ<zwsp>ธี<zwsp>ที่<zwsp>..<zwsp>. <nobr>ผิด<zwsp>แปลก</nobr>ไป<zwsp>จาก<zwsp>ปก<zwsp>ติ",
     "artistName": "Kudos Productions",
     "name": "Stress Defense",
     "cardCode": "05BC209",
@@ -2844,8 +2844,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC210.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC210-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC210.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC210-full.png"
       }
     ],
     "regions": [
@@ -2857,7 +2857,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "มอบ<zwsp> +2|+0 และ<link=keyword.Impact><sprite name=Impact><style=Keyword>สะเทือน</style></link>แก่<zwsp>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ",
+    "description": "มอบ<zwsp> +2|+0 และ<link=keyword.Impact><sprite name=Impact><style=Keyword>สะเทือน</style></link>แก่<nobr>พันธ<zwsp>มิตร</nobr>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "มอบ +2|+0 และสะเทือนแก่พันธมิตรหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2888,8 +2888,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC196.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC196-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC196.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC196-full.png"
       }
     ],
     "regions": [
@@ -2903,11 +2903,11 @@
     "attack": 5,
     "cost": 5,
     "health": 6,
-    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Sand Soldier</style></link> <zwsp>ออก<zwsp>มา<zwsp>โจม<zwsp>ตี <zwsp>2 <zwsp>ใบ",
+    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Sand Soldier</style></link> <zwsp>ออก<zwsp>มา<nobr>โจม<zwsp>ตี</nobr> 2 <zwsp>ใบ",
     "descriptionRaw": "โจมตี: อัญเชิญ Sand Soldier ออกมาโจมตี 2 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>เห็น<zwsp>มะ<zwsp>? <zwsp>มัน<zwsp>กระ<zwsp>จาย<zwsp>ไป<zwsp>ทั่ว<zwsp>เลย!\"<zwsp> ข้า<zwsp>เกลียด<zwsp>ทราย<zwsp>! <zwsp>การ<zwsp>ทำ<zwsp>ความ<zwsp>สะ<zwsp>อาด<zwsp>จะ<zwsp>ต้อง<zwsp>ทำ<zwsp>ข้า<zwsp>เสีย<zwsp>เงิน<zwsp>เยอะ<zwsp>แน่ <zwsp>ๆ <zwsp>ล่ะ<zwsp>!\"<zwsp> -<zwsp> Karl, Arena Kingpin",
+    "flavorText": "\"<zwsp>เห็น<zwsp>มะ<zwsp>? <zwsp>มัน<zwsp>กระ<zwsp>จาย<zwsp>ไป<zwsp>ทั่ว<zwsp>เลย!\"<zwsp> ข้า<zwsp>เกลียด<zwsp>ทราย<zwsp>! <zwsp>การ<zwsp>ทำ<zwsp>ความ<nobr>สะ<zwsp>อาด</nobr>จะ<zwsp>ต้อง<zwsp>ทำ<zwsp>ข้า<zwsp>เสีย<zwsp>เงิน<zwsp>เยอะ<zwsp>แน่ <zwsp>ๆ <zwsp>ล่ะ<zwsp>!\"<zwsp> -<zwsp> Karl, Arena Kingpin",
     "artistName": "Caravan Studio",
     "name": "Dunehopper Mech",
     "cardCode": "05BC196",
@@ -2935,8 +2935,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC013-full.png"
       }
     ],
     "regions": [
@@ -2948,7 +2948,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "คู่<zwsp>ต่อ<zwsp>สู้<zwsp>ของ<zwsp>คุณ<zwsp>ทิ้ง<zwsp>การ์ด<zwsp>ที่<zwsp>มี<zwsp>ค่า<zwsp>ร่าย<zwsp>น้อย<zwsp>ที่<zwsp>สุด",
+    "description": "คู่<zwsp>ต่อ<zwsp>สู้<zwsp>ของ<zwsp>คุณ<zwsp>ทิ้ง<zwsp>การ์ด<zwsp>ที่<zwsp>มี<zwsp>ค่า<zwsp>ร่าย<nobr>น้อย<zwsp>ที่<zwsp>สุด</nobr>",
     "descriptionRaw": "คู่ต่อสู้ของคุณทิ้งการ์ดที่มีค่าร่ายน้อยที่สุด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -2979,8 +2979,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC100.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC100-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC100.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC100-full.png"
       }
     ],
     "regions": [
@@ -2996,7 +2996,7 @@
     "descriptionRaw": "จู่โจม: ติด Poison Puffcap 3 ใบไว้บนการ์ดในเด็คของศัตรูแบบสุ่ม ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"ว่าไงนะเจ้าหนู? มีพวกหน้าใหม่สองคนออกไปลาดตระเวนในป่าแล้วเจอกับ<br>สัตว์ประหลาดหญ้าที่น่ากลัว ตอนนี้ทั้งคู่อาจต้องตายอย่างช้า ๆ และทรมานงั้นเรอะ? รีบพาไปหาเลย!\"<br>- Teemo",
+    "flavorText": "\"ว่าไงนะเจ้าหนู? มีพวกหน้าใหม่สองคนออกไปลาดตระเวนในป่าแล้วเจอกับ<br>สัตว์ประหลาดหญ้าที่น่ากลัว ตอนนี้ทั้งคู่อาจต้องตายอย่าง<nobr>ช้า ๆ</nobr> และทรมานงั้นเรอะ? รีบพาไปหาเลย!\"<br>- Teemo",
     "artistName": "Kudos Productions",
     "name": "Puffcap Pup",
     "cardCode": "05BC100",
@@ -3023,8 +3023,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC098.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC098-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC098-full.png"
       }
     ],
     "regions": [
@@ -3040,7 +3040,7 @@
     "descriptionRaw": "จู่โจม: มอบความเสียหายเพิ่มขึ้น1 หน่วยให้กับ Darknessของคุณทุกหนแห่ง",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "ความ<zwsp>มืด<zwsp>มี<zwsp>หลาก<zwsp>รูป<zwsp>แบบ<zwsp>และ<zwsp>หลาย<zwsp>ขนาด <zwsp>บาง<zwsp>จำ<zwsp>พวก<zwsp>ก็<zwsp>น่า<zwsp>รัก<zwsp>น่า<zwsp>เอ็น<zwsp>ดู<zwsp>เหลือ<zwsp>เชื่อ",
+    "flavorText": "ความ<zwsp>มืด<zwsp>มี<zwsp>หลาก<zwsp>รูป<zwsp>แบบ<zwsp>และ<zwsp>หลาย<zwsp>ขนาด <zwsp>บาง<zwsp>จำ<zwsp>พวก<zwsp>ก็<zwsp>น่า<zwsp>รัก<nobr>น่า<zwsp>เอ็น<zwsp>ดู</nobr>เหลือ<zwsp>เชื่อ",
     "artistName": "Kudos Productions",
     "name": "Twisted Catalyzer",
     "cardCode": "05BC098",
@@ -3063,8 +3063,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC122.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC122-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC122.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC122-full.png"
       }
     ],
     "regions": [
@@ -3103,8 +3103,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC120.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC120-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC120.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC120-full.png"
       }
     ],
     "regions": [
@@ -3145,8 +3145,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC046-full.png"
       }
     ],
     "regions": [
@@ -3158,7 +3158,7 @@
     "attack": 2,
     "cost": 3,
     "health": 3,
-    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ <zwsp>หาก<zwsp>คุณ<zwsp>เคย<zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.me><style=AssociatedCard>Thunder Fist</style></link> <zwsp>มา<zwsp>แล้ว<zwsp>ใน<zwsp>เกม<zwsp>นี้ <zwsp>แปลง<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>เป็น<zwsp> <link=card.transform><style=AssociatedCard>Masa, Crashing Thunder</style></link>",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ <zwsp>หาก<zwsp>คุณ<zwsp>เคย<nobr>อัญ<zwsp>เชิญ</nobr> <link=card.me><style=AssociatedCard>Thunder Fist</style></link> <zwsp>มา<zwsp>แล้ว<zwsp>ใน<zwsp>เกม<zwsp>นี้ <zwsp>แปลง<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>เป็น<zwsp> <link=card.transform><style=AssociatedCard>Masa, Crashing Thunder</style></link>",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ หากคุณเคยอัญเชิญ Thunder Fist มาแล้วในเกมนี้ แปลงการ์ดใบนี้เป็น Masa, Crashing Thunder",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3189,8 +3189,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC018-full.png"
       }
     ],
     "regions": [
@@ -3238,8 +3238,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC041T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC041T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC041T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC041T1-full.png"
       }
     ],
     "regions": [
@@ -3253,7 +3253,7 @@
     "attack": 3,
     "cost": 4,
     "health": 4,
-    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <zwsp>มอบ +2|+2 และ<link=keyword.Impact><sprite name=Impact><style=Keyword>สะเทือน</style></link>แก่<nobr>พันธ<zwsp>มิตร</nobr>ทั้ง<zwsp>หมด<zwsp>ที่<zwsp>มี<zwsp>พลัง<zwsp>โจม<zwsp>ตี<zwsp>เท่า<zwsp>กับ<zwsp>หรือ<zwsp>น้อย<zwsp>กว่า<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้",
+    "description": "<link=vocab.Attack><style=Vocab>โจมตี</style></link>: <zwsp>มอบ +2|+2 และ<link=keyword.Impact><sprite name=Impact><style=Keyword>สะเทือน</style></link>แก่<nobr>พันธ<zwsp>มิตร</nobr>ทั้ง<zwsp>หมด<zwsp>ที่<zwsp>มี<zwsp><nobr>พลัง<zwsp>โจม<zwsp>ตี</nobr><zwsp>เท่า<zwsp>กับ<zwsp>หรือ<zwsp>น้อย<zwsp>กว่า<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้",
     "descriptionRaw": "โจมตี: มอบ +2|+2 และสะเทือนแก่พันธมิตรทั้งหมดที่มีพลังโจมตีเท่ากับหรือน้อยกว่าการ์ดใบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3287,8 +3287,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC041T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC041T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC041T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC041T3-full.png"
       }
     ],
     "regions": [
@@ -3331,8 +3331,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC132.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC132-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC132.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC132-full.png"
       }
     ],
     "regions": [
@@ -3373,8 +3373,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC170.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC170-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC170.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC170-full.png"
       }
     ],
     "regions": [
@@ -3420,8 +3420,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC138.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC138-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC138.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC138-full.png"
       }
     ],
     "regions": [
@@ -3458,8 +3458,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC198.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC198-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC198.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC198-full.png"
       }
     ],
     "regions": [
@@ -3500,8 +3500,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC181.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC181-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC181.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC181-full.png"
       }
     ],
     "regions": [
@@ -3542,8 +3542,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC160.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC160-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC160.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC160-full.png"
       }
     ],
     "regions": [
@@ -3561,7 +3561,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "โป<zwsp>โร<zwsp>จาก<zwsp>เมื่อ<zwsp>กาล<zwsp>ก่อน<zwsp>มี<zwsp>กะ<zwsp>โหลก<zwsp>หนาก<zwsp>ว่า<zwsp>สมัย<zwsp>ปัจ<zwsp>จุ<zwsp>บัน<zwsp>มาก<zwsp>นัก<zwsp> <zwsp>ทำ<zwsp>ให้<zwsp>พวก<zwsp>มัน<zwsp>ซื่อ<zwsp>บื้อ<zwsp>ขึ้น<zwsp>อีก<zwsp>นิด <zwsp>และ<zwsp>ชื่น<zwsp>ชอบ<zwsp>การ<zwsp>โขก<zwsp>หัว<zwsp>ชน<zwsp>กัน<zwsp>ยิ่ง<zwsp>กว่า<zwsp>เดิม<zwsp>มาก",
+    "flavorText": "โป<zwsp>โร<zwsp>จาก<zwsp>เมื่อ<zwsp>กาล<zwsp>ก่อน<zwsp>มี<zwsp>กะ<zwsp>โหลก<zwsp>หนาก<zwsp>ว่า<zwsp>สมัย<zwsp>ปัจ<zwsp>จุ<zwsp>บัน<zwsp>มาก<zwsp>นัก<zwsp> <nobr>ทำ<zwsp>ให้</nobr>พวก<zwsp>มัน<zwsp>ซื่อ<zwsp>บื้อ<zwsp>ขึ้น<zwsp>อีก<zwsp>นิด <zwsp>และ<zwsp>ชื่น<zwsp>ชอบ<zwsp>การ<zwsp>โขก<zwsp>หัว<zwsp>ชน<zwsp>กัน<nobr>ยิ่ง<zwsp>กว่า<zwsp>เดิม</nobr>มาก",
     "artistName": "Kudos Productions",
     "name": "Proto Poro",
     "cardCode": "05BC160",
@@ -3590,8 +3590,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC005-full.png"
       }
     ],
     "regions": [
@@ -3607,7 +3607,7 @@
     "descriptionRaw": "จู่โจมเน็กซัส: สร้าง Prank หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>พ่อ<zwsp>แก้ว<zwsp>แม่<zwsp>แก้ว <zwsp>เมื่อ<zwsp>กี้<zwsp>ฝัน<zwsp>ประ<zwsp>หลาด<zwsp>กว่า<zwsp>ครั้ง<zwsp>ไหน<zwsp>เลย <zwsp>ที<zwsp>แรก<zwsp>ข้า<zwsp>กำ<zwsp>ลัง<zwsp>ฝ่า<zwsp>ดง<zwsp>สา<zwsp>หร่าย<zwsp>เคลป์<zwsp>เพื่อ<zwsp>ตาม<zwsp>หา<zwsp>หมวก<zwsp>เปลือก<zwsp>หอย <zwsp>แล้ว<zwsp>อยู่ <zwsp>ๆ<zwsp> <zwsp>ก็<zwsp>ได้<zwsp>ยิน<zwsp>เสียง<zwsp>เพลง<zwsp>ที่<zwsp>ไพ<zwsp>เราะ<zwsp>ที่<zwsp>สุด <zwsp>รู้<zwsp>ตัว<zwsp>อีก<zwsp>ที <zwsp>ข้า<zwsp>ก็<zwsp>นั่ง<zwsp>จับ<zwsp>ปาก<zwsp>กา<zwsp>อยู่<zwsp>ตรง<zwsp>นี้ <zwsp>เขียน<zwsp>ข้อ<zwsp>ความ<zwsp>พวก<zwsp>นี้<zwsp>ออก<zwsp>มา <zwsp>ทั้ง <zwsp>ๆ <zwsp>ที่<zwsp>จำ<zwsp>ไม่<zwsp>ได้<zwsp>ด้วย<zwsp>ซ้ำ<zwsp>ว่า<zwsp>กะ<zwsp>จะ<zwsp>นั่ง<zwsp>งีบ<zwsp>เมื่อ<zwsp>ตอน<zwsp>ไหน<zwsp>...\"<zwsp>\n-<zwsp> บัน<zwsp>ทึก<zwsp>ทาง<zwsp>นิ<zwsp>เวศ<zwsp>วิท<zwsp>ยา<zwsp>โดย<zwsp>นัก<zwsp>ศึก<zwsp>ษา<zwsp>เปลือก<zwsp>หอย <zwsp>วัน<zwsp>ที่<zwsp> 22",
+    "flavorText": "\"<zwsp>พ่อ<zwsp>แก้ว<zwsp>แม่<zwsp>แก้ว <zwsp>เมื่อ<zwsp>กี้<zwsp>ฝัน<zwsp>ประ<zwsp>หลาด<zwsp>กว่า<zwsp>ครั้ง<zwsp>ไหน<zwsp>เลย <zwsp>ที<zwsp>แรก<zwsp>ข้า<nobr>กำ<zwsp>ลัง</nobr>ฝ่า<zwsp>ดง<zwsp>สา<zwsp>หร่าย<zwsp>เคลป์<zwsp>เพื่อ<zwsp>ตาม<zwsp>หา<zwsp>หมวก<zwsp>เปลือก<zwsp>หอย <zwsp>แล้ว<nobr>อยู่ <zwsp>ๆ</nobr> <zwsp>ก็<zwsp>ได้<zwsp>ยิน<zwsp>เสียง<zwsp>เพลง<zwsp>ที่<zwsp>ไพ<zwsp>เราะ<zwsp>ที่<zwsp>สุด <zwsp>รู้<zwsp>ตัว<zwsp>อีก<zwsp>ที <zwsp>ข้า<zwsp>ก็<zwsp>นั่ง<zwsp>จับ<zwsp>ปาก<zwsp>กา<zwsp>อยู่<zwsp>ตรง<zwsp>นี้ <zwsp>เขียน<zwsp>ข้อ<zwsp>ความ<zwsp>พวก<zwsp>นี้<zwsp>ออก<zwsp>มา <zwsp>ทั้ง <zwsp>ๆ <zwsp>ที่<zwsp>จำ<zwsp>ไม่<zwsp>ได้<zwsp>ด้วย<zwsp>ซ้ำ<zwsp>ว่า<zwsp>กะ<zwsp>จะ<zwsp>นั่ง<zwsp>งีบ<zwsp>เมื่อ<zwsp>ตอน<zwsp>ไหน<zwsp>...\"<zwsp>\n-<zwsp> บัน<zwsp>ทึก<zwsp>ทาง<zwsp>นิ<zwsp>เวศ<zwsp>วิท<zwsp>ยา<zwsp>โดย<zwsp>นัก<zwsp>ศึก<zwsp>ษา<zwsp>เปลือก<zwsp>หอย <zwsp>วัน<zwsp>ที่<zwsp> 22",
     "artistName": "Kudos Productions",
     "name": "Kelp Maidens",
     "cardCode": "05BC005",
@@ -3632,8 +3632,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC079.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC079-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC079.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC079-full.png"
       }
     ],
     "regions": [
@@ -3681,8 +3681,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC049-full.png"
       }
     ],
     "regions": [
@@ -3698,7 +3698,7 @@
     "descriptionRaw": "เล่น: ก่อกำเนิดเวทจากภูมิภาคของคุณหนึ่งใบที่มีค่าร่ายไม่เกิน 3 หน่วย",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>วัน<zwsp>นี้<zwsp>เป็น<zwsp>วัน<zwsp>ที่<zwsp>สำ<zwsp>คัญ<zwsp>จริง <zwsp>ๆ<zwsp>! <zwsp>วัน<zwsp>เริ่ม<zwsp>การ<zwsp>ออก<zwsp>สำ<zwsp>รวจ<zwsp>ทะ<zwsp>เล<zwsp>ลึก<zwsp>! <zwsp>ข้า<zwsp>ว่า<zwsp>ทุก<zwsp>อย่าง<zwsp>ต้อง<zwsp>ดำ<zwsp>เนิน<zwsp>ไป<zwsp>อย่าง<zwsp>...<zwsp> ลื่น<zwsp>ไหล<zwsp>ที<zwsp>เดียว<zwsp>! <zwsp>โฮ่ <zwsp>ๆ!\"<zwsp> \n<zwsp>- <zwsp>บัน<zwsp>ทึก<zwsp>ทาง<zwsp>นิ<zwsp>เวศ<zwsp>วิท<zwsp>ยา<zwsp>โดย<zwsp>นัก<zwsp>ศึก<zwsp>ษา<zwsp>เปลือก<zwsp>หอย <zwsp>วัน<zwsp>ที่<zwsp> 1",
+    "flavorText": "\"<zwsp>วัน<zwsp>นี้<zwsp>เป็น<zwsp>วัน<zwsp>ที่<zwsp>สำ<zwsp>คัญ<zwsp>จริง <zwsp>ๆ<zwsp>! <zwsp>วัน<zwsp>เริ่ม<zwsp>การ<zwsp>ออก<zwsp>สำ<zwsp>รวจ<zwsp>ทะ<zwsp>เล<zwsp>ลึก<zwsp>! <nobr>ข้า<zwsp>ว่า</nobr>ทุก<zwsp>อย่าง<zwsp>ต้อง<zwsp>ดำ<zwsp>เนิน<zwsp>ไป<zwsp>อย่าง<zwsp>...<zwsp> ลื่น<zwsp>ไหล<zwsp>ที<zwsp>เดียว<zwsp>! <zwsp>โฮ่ <zwsp>ๆ!\"<zwsp> \n<zwsp>- <zwsp>บัน<zwsp>ทึก<zwsp>ทาง<zwsp>นิ<zwsp>เวศ<zwsp>วิท<zwsp>ยา<zwsp>โดย<zwsp>นัก<zwsp>ศึก<zwsp>ษา<zwsp>เปลือก<zwsp>หอย <zwsp>วัน<zwsp>ที่<zwsp> 1",
     "artistName": "Kudos Productions",
     "name": "Conchologist",
     "cardCode": "05BC049",
@@ -3723,8 +3723,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC046T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC046T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC046T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC046T2-full.png"
       }
     ],
     "regions": [
@@ -3769,8 +3769,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC001-full.png"
       }
     ],
     "regions": [
@@ -3811,8 +3811,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC082.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC082-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC082-full.png"
       }
     ],
     "regions": [
@@ -3858,8 +3858,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC167T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC167T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC167T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC167T1-full.png"
       }
     ],
     "regions": [
@@ -3904,8 +3904,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC026-full.png"
       }
     ],
     "regions": [
@@ -3917,7 +3917,7 @@
     "attack": 0,
     "cost": 6,
     "health": 0,
-    "description": "ใช้มานาน้อยลง 2 หน่วย<br>ถ้าคุณสร้างการ์ดในเกมนี้มาแล้ว 2 ใบขึ้นไป จั่ว 2 ใบ",
+    "description": "ใช้มานาน้อยลง 2 หน่วย<br>ถ้าคุณสร้างการ์ดในเกมนี้มาแล้ว <nobr>2 ใบ</nobr>ขึ้นไป จั่ว 2 ใบ",
     "descriptionRaw": "ใช้มานาน้อยลง 2 หน่วยถ้าคุณสร้างการ์ดในเกมนี้มาแล้ว 2 ใบขึ้นไป จั่ว 2 ใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -3946,8 +3946,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC152.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC152-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC152.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC152-full.png"
       }
     ],
     "regions": [
@@ -3990,8 +3990,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC070.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC070-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC070-full.png"
       }
     ],
     "regions": [
@@ -4033,8 +4033,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC145.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC145-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC145.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC145-full.png"
       }
     ],
     "regions": [
@@ -4073,8 +4073,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC140.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC140-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC140.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC140-full.png"
       }
     ],
     "regions": [
@@ -4119,8 +4119,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC129.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC129-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC129.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC129-full.png"
       }
     ],
     "regions": [
@@ -4167,8 +4167,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC004-full.png"
       }
     ],
     "regions": [
@@ -4209,8 +4209,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC155.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC155-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC155.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC155-full.png"
       }
     ],
     "regions": [
@@ -4253,8 +4253,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC073T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC073T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC073T1-full.png"
       }
     ],
     "regions": [
@@ -4266,7 +4266,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "<link=vocab.Countdown><style=Vocab>นับถอยหลัง</style></link> 3 <zwsp>หรือ<zwsp>เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>ทำ<zwsp>ลาย<zwsp>: <zwsp>สร้าง<zwsp>ความ<zwsp>เสีย<zwsp>หาย 1 <zwsp>หน่วย<zwsp>แก่<zwsp>เน็ก<zwsp>ซัส<zwsp>ของ<zwsp>ศัตรู",
+    "description": "<link=vocab.Countdown><style=Vocab>นับถอยหลัง</style></link> 3 <zwsp>หรือ<zwsp>เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<nobr>ทำ<zwsp>ลาย<zwsp>:</nobr> <zwsp>สร้าง<zwsp>ความ<zwsp>เสีย<zwsp>หาย 1 <zwsp>หน่วย<zwsp>แก่<zwsp>เน็ก<zwsp>ซัส<zwsp>ของ<zwsp>ศัตรู",
     "descriptionRaw": "นับถอยหลัง 3 หรือเมื่อการ์ดใบนี้ถูกทำลาย: สร้างความเสียหาย 1 หน่วยแก่เน็กซัสของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4297,8 +4297,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC106.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC106-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC106.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC106-full.png"
       }
     ],
     "regions": [
@@ -4341,8 +4341,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC192.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC192-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC192.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC192-full.png"
       }
     ],
     "regions": [
@@ -4383,8 +4383,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC169.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC169-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC169.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC169-full.png"
       }
     ],
     "regions": [
@@ -4432,8 +4432,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC166.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC166-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC166.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC166-full.png"
       }
     ],
     "regions": [
@@ -4474,8 +4474,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC006-full.png"
       }
     ],
     "regions": [
@@ -4514,8 +4514,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC063.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC063-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC063-full.png"
       }
     ],
     "regions": [
@@ -4554,8 +4554,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC180.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC180-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC180.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC180-full.png"
       }
     ],
     "regions": [
@@ -4598,8 +4598,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC040-full.png"
       }
     ],
     "regions": [
@@ -4611,7 +4611,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "<link=vocab.Manifest><style=Vocab>ก่อกำเนิด</style></link> <link=card.create1><style=AssociatedCard>Otterpus</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>หรือ<zwsp>หนึ่ง<zwsp>ใน<zwsp>เวท<zwsp>จาก<zwsp>ภูมิ<zwsp>ภาค<zwsp>ของ<zwsp>คุณ<zwsp> 2 <zwsp>ใบ<zwsp>ที่<zwsp>มี<zwsp>ค่า<zwsp>ร่าย<zwsp>ไม่<zwsp>เกิน<zwsp> 3 <zwsp>หน่วย",
+    "description": "<link=vocab.Manifest><style=Vocab>ก่อกำเนิด</style></link> <link=card.create1><style=AssociatedCard>Otterpus</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>หรือ<zwsp>หนึ่ง<zwsp>ใน<zwsp>เวท<zwsp>จาก<zwsp>ภูมิ<zwsp>ภาค<zwsp>ของ<zwsp>คุณ<zwsp> 2 <zwsp>ใบ<zwsp>ที่<zwsp>มี<nobr>ค่า<zwsp>ร่าย</nobr>ไม่<zwsp>เกิน<zwsp> 3 <zwsp>หน่วย",
     "descriptionRaw": "ก่อกำเนิด Otterpus หนึ่งใบหรือหนึ่งในเวทจากภูมิภาคของคุณ 2 ใบที่มีค่าร่ายไม่เกิน 3 หน่วย",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4640,8 +4640,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC208.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC208-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC208.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC208-full.png"
       }
     ],
     "regions": [
@@ -4653,7 +4653,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "พันธ<zwsp>มิตร<link=vocab.Strike><style=Vocab>จู่โจม</style></link>ศัตรู <zwsp>1 <zwsp>ใบ <zwsp>หาก<zwsp>มัน<zwsp>รอด<zwsp>ชี<zwsp>วิต <zwsp>ทำ<zwsp>การ<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>มัน",
+    "description": "พันธ<zwsp>มิตร<link=vocab.Strike><style=Vocab>จู่โจม</style></link>ศัตรู <zwsp>1 <zwsp>ใบ <zwsp>หาก<zwsp>มัน<nobr>รอด<zwsp>ชี<zwsp>วิต</nobr> <zwsp>ทำ<zwsp>การ<link=keyword.Stun><sprite name=Stunned><style=Keyword>สตั้น</style></link>มัน",
     "descriptionRaw": "พันธมิตรจู่โจมศัตรู 1 ใบ หากมันรอดชีวิต ทำการสตั้นมัน",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4682,8 +4682,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC085.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC085-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC085.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC085-full.png"
       }
     ],
     "regions": [
@@ -4722,8 +4722,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC135.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC135-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC135.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC135-full.png"
       }
     ],
     "regions": [
@@ -4764,8 +4764,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC084.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC084-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC084.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC084-full.png"
       }
     ],
     "regions": [
@@ -4806,8 +4806,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC171.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC171-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC171.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC171-full.png"
       }
     ],
     "regions": [
@@ -4855,8 +4855,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC184.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC184-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC184.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC184-full.png"
       }
     ],
     "regions": [
@@ -4895,8 +4895,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC080.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC080-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC080.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC080-full.png"
       }
     ],
     "regions": [
@@ -4908,7 +4908,7 @@
     "attack": 4,
     "cost": 3,
     "health": 4,
-    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> ม<zwsp>อบ<link=keyword.Impact><sprite name=Impact><style=Keyword>สะเทือน</style></link>แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>สอง<zwsp>ครั้ง",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> <nobr>มอบ</nobr><link=keyword.Impact><sprite name=Impact><style=Keyword>สะเทือน</style></link>แก่<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>สอง<zwsp>ครั้ง",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบสะเทือนแก่การ์ดใบนี้สองครั้ง",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -4936,8 +4936,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC116.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC116-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC116.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC116-full.png"
       }
     ],
     "regions": [
@@ -4976,8 +4976,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC111.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC111-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC111.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC111-full.png"
       }
     ],
     "regions": [
@@ -5018,8 +5018,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC145T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC145T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC145T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC145T2-full.png"
       }
     ],
     "regions": [
@@ -5060,8 +5060,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC145T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC145T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC145T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC145T1-full.png"
       }
     ],
     "regions": [
@@ -5102,8 +5102,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC191.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC191-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC191.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC191-full.png"
       }
     ],
     "regions": [
@@ -5144,8 +5144,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC052.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC052-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC052.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC052-full.png"
       }
     ],
     "regions": [
@@ -5186,8 +5186,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC089.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC089-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC089-full.png"
       }
     ],
     "regions": [
@@ -5235,8 +5235,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC050-full.png"
       }
     ],
     "regions": [
@@ -5273,8 +5273,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC021T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC021T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC021T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC021T1-full.png"
       }
     ],
     "regions": [
@@ -5315,8 +5315,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC021T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC021T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC021T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC021T2-full.png"
       }
     ],
     "regions": [
@@ -5359,8 +5359,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC094.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC094-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC094-full.png"
       }
     ],
     "regions": [
@@ -5403,8 +5403,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC001T1-full.png"
       }
     ],
     "regions": [
@@ -5441,8 +5441,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC146.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC146-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC146.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC146-full.png"
       }
     ],
     "regions": [
@@ -5485,8 +5485,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC235.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC235-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC235.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC235-full.png"
       }
     ],
     "regions": [
@@ -5525,8 +5525,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC175.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC175-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC175.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC175-full.png"
       }
     ],
     "regions": [
@@ -5567,8 +5567,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC182.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC182-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC182.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC182-full.png"
       }
     ],
     "regions": [
@@ -5611,8 +5611,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC069.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC069-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC069.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC069-full.png"
       }
     ],
     "regions": [
@@ -5653,8 +5653,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC057-full.png"
       }
     ],
     "regions": [
@@ -5693,8 +5693,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC108.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC108-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC108.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC108-full.png"
       }
     ],
     "regions": [
@@ -5706,7 +5706,7 @@
     "attack": 2,
     "cost": 2,
     "health": 2,
-    "description": "เมื่อคุณอัญเชิญยอร์เดิลใบอื่น มอบ +1|+0 ให้กับมัน",
+    "description": "เมื่อ<zwsp>คุณ<zwsp>อัญ<zwsp>เชิญ<zwsp>ยอร์<zwsp>เดิล<zwsp>ใบ<zwsp>อื่น<zwsp> มอบ +1|+0 ให้<zwsp>กับ<zwsp>มัน",
     "descriptionRaw": "เมื่อคุณอัญเชิญยอร์เดิลใบอื่น มอบ +1|+0 ให้กับมัน",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5733,8 +5733,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC188.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BC188-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC188.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BC188-full.png"
       }
     ],
     "regions": [
@@ -5771,8 +5771,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO003-full.png"
       }
     ],
     "regions": [
@@ -5812,8 +5812,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO004-full.png"
       }
     ],
     "regions": [
@@ -5857,8 +5857,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO004T2-full.png"
       }
     ],
     "regions": [
@@ -5906,8 +5906,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO004T1-full.png"
       }
     ],
     "regions": [
@@ -5948,8 +5948,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO023-full.png"
       }
     ],
     "regions": [
@@ -5992,8 +5992,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO020-full.png"
       }
     ],
     "regions": [
@@ -6030,8 +6030,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO020T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO020T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO020T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO020T1-full.png"
       }
     ],
     "regions": [
@@ -6072,8 +6072,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO007-full.png"
       }
     ],
     "regions": [
@@ -6110,8 +6110,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO021-full.png"
       }
     ],
     "regions": [
@@ -6123,8 +6123,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>พันธมิตรหนึ่งใบเพื่ออัญเชิญ<nobr>การ์ดเสมือน<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link>ของมัน</nobr>\r\n <link=vocab.Countdown><style=Vocab>นับถอยหลัง 3</style></link><style=Variable></style>: อัญเชิญ<nobr>การ์ดเสมือน</nobr><link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link>ของมันอีกหนึ่งใบ",
-    "descriptionRaw": "เล่น: เรียกกลับพันธมิตรหนึ่งใบเพื่ออัญเชิญการ์ดเสมือนไร้ตัวตนของมัน\r\n นับถอยหลัง 3: อัญเชิญการ์ดเสมือนไร้ตัวตนของมันอีกหนึ่งใบ",
+    "description": "<link=vocab.Play><style=Vocab>เล่น</style></link>: <link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>พันธ<zwsp>มิตร<zwsp>หนึ่ง<zwsp>ใบ<zwsp>เพื่อ<zwsp>อัญ<zwsp>เชิญ<nobr>การ์ด<zwsp>เสมือน<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link>ของ<zwsp>มัน</nobr>\r\n<link=vocab.Countdown><style=Vocab>นับถอยหลัง 3</style></link><style=Variable></style>: <zwsp>อัญ<zwsp>เชิญ<nobr>การ์ด<zwsp>เสมือน</nobr><link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link>ของ<zwsp>มัน<zwsp>อีก<zwsp>หนึ่ง<zwsp>ใบ",
+    "descriptionRaw": "เล่น: เรียกกลับพันธมิตรหนึ่งใบเพื่ออัญเชิญการ์ดเสมือนไร้ตัวตนของมัน\r\nนับถอยหลัง 3: อัญเชิญการ์ดเสมือนไร้ตัวตนของมันอีกหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "ครั้ง<zwsp>หนึ่ง<zwsp> ต้น<zwsp>หลิว<zwsp>เท<zwsp>วะ<zwsp>เคย<zwsp>โต<zwsp>ขึ้น<zwsp>ใน<zwsp>โอ<zwsp>มิ<zwsp>คา<zwsp>ยา<zwsp>ลาน <zwsp>อะ<zwsp>ไร<zwsp>ที่<zwsp>โผล่<zwsp>ออก<zwsp>มา<zwsp>จาก<zwsp>ที่<zwsp>นั่น<zwsp>ตอน<zwsp>นี้<zwsp>อาจ<zwsp>จะ<zwsp>แข็ง<zwsp>แกร่ง<zwsp>กว่า <zwsp>หรือ<zwsp>อาจ<zwsp>จะ<zwsp>อ่อน<zwsp>แอ<zwsp>กว่า<zwsp>ก็<zwsp>ได้ <zwsp>สิ่ง<zwsp>สำ<zwsp>คัญ<zwsp>คือ<zwsp>มัน<zwsp>เป็น<zwsp>ชี<zwsp>วิต<zwsp>ใหม่",
@@ -6154,8 +6154,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO001-full.png"
       }
     ],
     "regions": [
@@ -6192,8 +6192,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO024-full.png"
       }
     ],
     "regions": [
@@ -6234,8 +6234,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO025-full.png"
       }
     ],
     "regions": [
@@ -6247,7 +6247,7 @@
     "attack": 4,
     "cost": 5,
     "health": 5,
-    "description": "ใน<zwsp>แต่<zwsp>ละ<zwsp>รอบ <zwsp>ครั้ง<zwsp>แรก<zwsp>ที่<zwsp>คุณ<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link>ผู้<zwsp>ติด<zwsp>ตาม<zwsp> อัญ<zwsp>เชิญ<zwsp>การ์ด<zwsp>เสมือน<zwsp>ทุก<zwsp>ประ<zwsp>การ<zwsp>ของ<zwsp>มัน<zwsp>ที่<zwsp>มี<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link>หนึ่ง<zwsp>ใบ",
+    "description": "ใน<zwsp>แต่<zwsp>ละ<zwsp>รอบ <zwsp>ครั้ง<zwsp>แรก<zwsp>ที่<zwsp>คุณ<link=keyword.Recall><style=Keyword>เรียกกลับ</style></link><nobr>ผู้<zwsp>ติด<zwsp>ตาม</nobr> อัญ<zwsp>เชิญ<zwsp>การ์ด<zwsp>เสมือน<zwsp>ทุก<zwsp>ประ<zwsp>การ<zwsp>ของ<zwsp>มัน<zwsp>ที่<zwsp>มี<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>ไร้ตัวตน</style></link>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "ในแต่ละรอบ ครั้งแรกที่คุณเรียกกลับผู้ติดตาม อัญเชิญการ์ดเสมือนทุกประการของมันที่มีไร้ตัวตนหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6272,8 +6272,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO026-full.png"
       }
     ],
     "regions": [
@@ -6316,8 +6316,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO006-full.png"
       }
     ],
     "regions": [
@@ -6360,8 +6360,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO006T1-full.png"
       }
     ],
     "regions": [
@@ -6398,8 +6398,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05IO002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05IO002-full.png"
       }
     ],
     "regions": [
@@ -6445,8 +6445,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014-full.png"
       }
     ],
     "regions": [
@@ -6462,7 +6462,7 @@
     "descriptionRaw": "เมื่อแลนด์มาร์คพันธมิตรถูกทำลาย สร้างความเสียหาย1 หน่วยแก่ศัตรูที่อ่อนแอที่สุด ",
     "levelupDescription": "คุณได้ทำลายแลนด์มาร์คพันธมิตร<br>อย่างน้อย 4 ใบในเกมนี้<style=Variable></style>",
     "levelupDescriptionRaw": "คุณได้ทำลายแลนด์มาร์คพันธมิตรอย่างน้อย 4 ใบในเกมนี้",
-    "flavorText": "\"<zwsp>ทั้ง<zwsp>สอง<zwsp>เคย<zwsp>เป็น<zwsp>เพื่อน<zwsp>กัน <zwsp>แต่<zwsp>เว<zwsp>ลา<zwsp>และ<zwsp>ความ<zwsp>ผูก<zwsp>พัน<zwsp>ได้<zwsp>เปลี่ยน<zwsp>ให้<zwsp>ทั้ง<zwsp>สอง<zwsp>กลาย<zwsp>เป็น<zwsp>พี่<zwsp>น้อง<zwsp> เชื่อ<zwsp>ได้<zwsp>ว่า<zwsp> Azir <zwsp>ไม่<zwsp>อาจ<zwsp>ประ<zwsp>สบ<zwsp>ความ<zwsp>สำ<zwsp>เร็จ<zwsp>ใน<zwsp>ระ<zwsp>ดับ<zwsp>นี้<zwsp>ได้<zwsp>ถ้า<zwsp>ไม่<zwsp>มี<zwsp> Xerath <zwsp>อยู่<zwsp>เคียง<zwsp>ข้าง<zwsp>เขา<zwsp>\" \n<zwsp>- <zwsp>ผู้<zwsp>บัน<zwsp>ทึก<zwsp> Kah'nir <zwsp>ประ<zwsp>วัติ<zwsp>ศาสตร์<zwsp>แห่ง<zwsp>ร่าง<zwsp>ทรง<zwsp>พลัง<zwsp>เทพ",
+    "flavorText": "\"<zwsp>ทั้ง<zwsp>สอง<zwsp>เคย<zwsp>เป็น<zwsp>เพื่อน<zwsp>กัน <zwsp>แต่<zwsp>เว<zwsp>ลา<zwsp>และ<zwsp>ความ<zwsp>ผูก<zwsp>พัน<zwsp>ได้<zwsp>เปลี่ยน<zwsp>ให้<zwsp>ทั้ง<zwsp>สอง<zwsp>กลาย<zwsp>เป็น<zwsp>พี่<zwsp>น้อง<zwsp> เชื่อ<zwsp>ได้<zwsp>ว่า<zwsp> Azir <zwsp>ไม่<zwsp>อาจ<zwsp>ประ<zwsp>สบ<nobr>ความ<zwsp>สำ<zwsp>เร็จ</nobr>ใน<zwsp>ระ<zwsp>ดับ<zwsp>นี้<zwsp>ได้<zwsp>ถ้า<zwsp>ไม่<zwsp>มี<zwsp> Xerath <zwsp>อยู่<zwsp>เคียง<zwsp>ข้าง<zwsp>เขา<zwsp>\"\n<zwsp>- <zwsp>ผู้<zwsp>บัน<zwsp>ทึก<zwsp> Kah'nir <zwsp>ประ<zwsp>วัติ<zwsp>ศาสตร์<zwsp>แห่ง<zwsp>ร่าง<zwsp>ทรง<zwsp>พลัง<zwsp>เทพ",
     "artistName": "SIXMOREVODKA",
     "name": "Xerath",
     "cardCode": "05SH014",
@@ -6490,8 +6490,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T3-full.png"
       }
     ],
     "regions": [
@@ -6537,8 +6537,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T4-full.png"
       }
     ],
     "regions": [
@@ -6584,8 +6584,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T5-full.png"
       }
     ],
     "regions": [
@@ -6631,8 +6631,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T1-full.png"
       }
     ],
     "regions": [
@@ -6676,8 +6676,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH014T2-full.png"
       }
     ],
     "regions": [
@@ -6716,8 +6716,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH017-full.png"
       }
     ],
     "regions": [
@@ -6757,8 +6757,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH011-full.png"
       }
     ],
     "regions": [
@@ -6770,7 +6770,7 @@
     "attack": 3,
     "cost": 3,
     "health": 3,
-    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Sarcophagus</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Sarcophagus</style></link> <nobr>หนึ่ง<zwsp>ใบ</nobr>",
     "descriptionRaw": "สิ้นลม: อัญเชิญ Sarcophagus หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6799,8 +6799,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH011T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH011T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH011T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH011T1-full.png"
       }
     ],
     "regions": [
@@ -6843,8 +6843,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH011T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH011T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH011T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH011T2-full.png"
       }
     ],
     "regions": [
@@ -6856,7 +6856,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "<link=vocab.Countdown><style=Vocab>นับถอยหลัง</style></link> 3 <zwsp>หรือ<zwsp>เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>ทำ<zwsp>ลาย<zwsp>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Restored Devout</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
+    "description": "<link=vocab.Countdown><style=Vocab>นับถอยหลัง</style></link> 3 <zwsp>หรือ<zwsp>เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<nobr>ทำ<zwsp>ลาย</nobr>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Restored Devout</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "นับถอยหลัง 3 หรือเมื่อการ์ดใบนี้ถูกทำลาย: อัญเชิญ Restored Devout หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6887,8 +6887,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH003-full.png"
       }
     ],
     "regions": [
@@ -6931,8 +6931,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH016-full.png"
       }
     ],
     "regions": [
@@ -6975,8 +6975,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH018-full.png"
       }
     ],
     "regions": [
@@ -6992,7 +6992,7 @@
     "descriptionRaw": "อัญเชิญ Stasis Statue หนึ่งใบเพื่อเก็บยูนิตและแลนด์มาร์คพันธมิตรทั้งหมดที่ตายหรือถูกทำลายในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "พลัง<zwsp>งาน<zwsp>เวท<zwsp>มนตร์<zwsp>ไม่<zwsp>มี<zwsp>การ<zwsp>สูญ<zwsp>สลาย <zwsp>มัน<zwsp>แค่<zwsp>ถูก<zwsp>เปลี่ยน<zwsp>วัต<zwsp>ถุ<zwsp>ประ<zwsp>สงค์",
+    "flavorText": "พลัง<zwsp>งาน<zwsp>เวท<zwsp>มนตร์<zwsp>ไม่<zwsp>มี<zwsp>การ<zwsp>สูญ<zwsp>สลาย <zwsp>มัน<zwsp>แค่<zwsp>ถูก<zwsp>เปลี่ยน<nobr>วัต<zwsp>ถุ<zwsp>ประ<zwsp>สงค์</nobr>",
     "artistName": "Kudos Productions",
     "name": "Servitude of Desolation",
     "cardCode": "05SH018",
@@ -7019,8 +7019,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH012-full.png"
       }
     ],
     "regions": [
@@ -7032,7 +7032,7 @@
     "attack": 0,
     "cost": 6,
     "health": 0,
-    "description": "<link=vocab.Countdown><style=Vocab>นับถอยหลัง</style></link> 3 <zwsp>หรือ<zwsp>เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>ทำ<zwsp>ลาย<zwsp>: <zwsp>อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Dami'yin the Unbound</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
+    "description": "<link=vocab.Countdown><style=Vocab>นับถอยหลัง</style></link> 3 <zwsp>หรือ<zwsp>เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<nobr>ทำ<zwsp>ลาย<zwsp>:</nobr> อัญ<zwsp>เชิญ<zwsp> <link=card.summon><style=AssociatedCard>Dami'yin the Unbound</style></link> <zwsp>หนึ่ง<zwsp>ใบ",
     "descriptionRaw": "นับถอยหลัง 3 หรือเมื่อการ์ดใบนี้ถูกทำลาย: อัญเชิญ Dami'yin the Unbound หนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -7063,8 +7063,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH012T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH012T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH012T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH012T1-full.png"
       }
     ],
     "regions": [
@@ -7080,7 +7080,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>เมื่อ<zwsp>เรา<zwsp>ไป<zwsp>ถึง<zwsp>แหล่ง<zwsp>พลัง<zwsp>แต่<zwsp>ละ<zwsp>แหล่ง<zwsp> <zwsp>เรา<zwsp>จะ<zwsp>ดึง<zwsp>พลัง<zwsp>เวท<zwsp>มนตร์<zwsp>จาก<zwsp>ดิน<zwsp>แดน <zwsp>และ<zwsp>กอง<zwsp>ทัพ<zwsp>ของ<zwsp>องค์<zwsp>มหา<zwsp>จักร<zwsp>พรรดิ<zwsp>ของ<zwsp>เรา<zwsp>จะ<zwsp>ยิ่ง<zwsp>แข็ง<zwsp>แกร่ง!\"<zwsp> -<zwsp> Herald of the Magus",
+    "flavorText": "\"<zwsp>เมื่อ<zwsp>เรา<zwsp>ไป<zwsp>ถึง<zwsp>แหล่ง<zwsp>พลัง<zwsp>แต่<zwsp>ละ<zwsp>แหล่ง<zwsp> <zwsp>เรา<zwsp>จะ<zwsp>ดึง<zwsp>พลัง<zwsp>เวท<zwsp>มนตร์<zwsp>จาก<zwsp>ดิน<zwsp>แดน <zwsp>และ<zwsp>กอง<zwsp>ทัพ<zwsp>ของ<zwsp>องค์<zwsp>มหา<zwsp>จักร<zwsp>พรรดิ<zwsp>ของ<zwsp>เรา<zwsp>จะ<zwsp>ยิ่ง<nobr>แข็ง<zwsp>แกร่ง!\"</nobr> -<zwsp> Herald of the Magus",
     "artistName": "Michael Ivan",
     "name": "Dami'yin the Unbound",
     "cardCode": "05SH012T1",
@@ -7110,8 +7110,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH020-full.png"
       }
     ],
     "regions": [
@@ -7152,8 +7152,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH015-full.png"
       }
     ],
     "regions": [
@@ -7194,8 +7194,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH004-full.png"
       }
     ],
     "regions": [
@@ -7236,8 +7236,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH004T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH004T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH004T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH004T2-full.png"
       }
     ],
     "regions": [
@@ -7278,8 +7278,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH004T1-full.png"
       }
     ],
     "regions": [
@@ -7320,8 +7320,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH002-full.png"
       }
     ],
     "regions": [
@@ -7362,8 +7362,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH007-full.png"
       }
     ],
     "regions": [
@@ -7404,8 +7404,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH007T1-full.png"
       }
     ],
     "regions": [
@@ -7446,8 +7446,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SH007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SH007T2-full.png"
       }
     ],
     "regions": [
@@ -7490,8 +7490,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX009-full.png"
       }
     ],
     "regions": [
@@ -7528,8 +7528,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX006-full.png"
       }
     ],
     "regions": [
@@ -7570,8 +7570,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX017-full.png"
       }
     ],
     "regions": [
@@ -7583,11 +7583,11 @@
     "attack": 6,
     "cost": 3,
     "health": 3,
-    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> ม<zwsp>อบ<link=keyword.Reckless><sprite name=Reckless><style=Keyword>บล็อกไม่ได้</style></link>แก่<zwsp>ศัตรู<zwsp>ที่<link=keyword.Weakest><style=Keyword>อ่อนแอที่สุด</style></link>",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> <nobr>มอบ</nobr><link=keyword.Reckless><sprite name=Reckless><style=Keyword>บล็อกไม่ได้</style></link>แก่<zwsp>ศัตรู<zwsp>ที่<link=keyword.Weakest><style=Keyword>อ่อนแอที่สุด</style></link>",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบบล็อกไม่ได้แก่ศัตรูที่อ่อนแอที่สุด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>คำ<zwsp>แนะ<zwsp>นำ<zwsp>ของ<zwsp>นาง<zwsp>ทำ<zwsp>ให้<zwsp>มัน<zwsp>ตื่น<zwsp>ขึ้น<zwsp>มา<zwsp>ได้ <zwsp>เกลือ<zwsp>ไอ<zwsp>โอ<zwsp>ดีน<zwsp>ขนาน<zwsp>เล็ก<zwsp>ฉีด<zwsp>เข้า<zwsp>สู่<zwsp>เส้น<zwsp>เลือด <zwsp>สิ่ง<zwsp>มี<zwsp>ชี<zwsp>วิต<zwsp>อื่น <zwsp>ๆ <zwsp>ที่<zwsp>ได้<zwsp>รับ<zwsp>สาร<zwsp>เช่น<zwsp>นั้น<zwsp>จะ<zwsp>ตาย <zwsp>แต่<zwsp>คน<zwsp>ไข้<zwsp>ของ<zwsp>เรา<zwsp>เพียง<zwsp>แค่<zwsp>เจ็บ<zwsp>ปวด <zwsp>สำ<zwsp>หรับ<zwsp>ผู้<zwsp>หวน<zwsp>คืน<zwsp>แล้ว<zwsp> <zwsp>ไม่<zwsp>มี<zwsp>สิ่ง<zwsp>ใด<zwsp>เป็น<zwsp>ตัว<zwsp>กระ<zwsp>ตุ้น<zwsp>ได้<zwsp>ดี<zwsp>ไป<zwsp>กว่า<zwsp>ความ<zwsp>เจ็บ<zwsp>ปวด\"<zwsp>\n-<zwsp> บัน<zwsp>ทึก<zwsp>จาก<zwsp> ด<zwsp>ร. Esslanger",
+    "flavorText": "\"<zwsp>คำ<zwsp>แนะ<zwsp>นำ<zwsp>ของ<zwsp>นาง<zwsp>ทำ<zwsp>ให้<zwsp>มัน<zwsp>ตื่น<zwsp>ขึ้น<zwsp>มา<zwsp>ได้ <zwsp>เกลือ<zwsp>ไอ<zwsp>โอ<zwsp>ดีน<zwsp>ขนาน<zwsp>เล็ก<zwsp>ฉีด<zwsp>เข้า<zwsp>สู่<zwsp>เส้น<zwsp>เลือด <zwsp>สิ่ง<zwsp>มี<zwsp>ชี<zwsp>วิต<zwsp>อื่น <zwsp>ๆ <zwsp>ที่<zwsp>ได้<zwsp>รับ<zwsp>สาร<zwsp>เช่น<zwsp>นั้น<zwsp>จะ<zwsp>ตาย <zwsp>แต่<nobr>คน<zwsp>ไข้</nobr><nobr>ของ<zwsp>เรา</nobr>เพียง<zwsp>แค่<zwsp>เจ็บ<zwsp>ปวด <zwsp>สำ<zwsp>หรับ<zwsp>ผู้<zwsp>หวน<zwsp>คืน<zwsp>แล้ว<zwsp> <nobr>ไม่<zwsp>มี<zwsp>สิ่ง<zwsp>ใด</nobr>เป็น<nobr>ตัว<zwsp>กระ<zwsp>ตุ้น</nobr>ได้<zwsp>ดี<zwsp>ไป<zwsp>กว่า<zwsp>ความ<zwsp>เจ็บ<zwsp>ปวด\"<zwsp>\n-<zwsp> บัน<zwsp>ทึก<zwsp>จาก<zwsp> ด<zwsp>ร. Esslanger",
     "artistName": "Kudos Productions",
     "name": "Risen Reckoner",
     "cardCode": "05NX017",
@@ -7614,8 +7614,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX005-full.png"
       }
     ],
     "regions": [
@@ -7660,8 +7660,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX001-full.png"
       }
     ],
     "regions": [
@@ -7704,8 +7704,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX003-full.png"
       }
     ],
     "regions": [
@@ -7748,8 +7748,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX015-full.png"
       }
     ],
     "regions": [
@@ -7761,7 +7761,7 @@
     "attack": 4,
     "cost": 5,
     "health": 3,
-    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> ม<zwsp>อบ<link=keyword.Reckless><sprite name=Reckless><style=Keyword>บล็อกไม่ได้</style></link>แก่<zwsp>ศัตรู<zwsp>ที่<link=keyword.Weakest><style=Keyword>อ่อนแอที่สุด</style></link>\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: <zwsp>สร้าง<zwsp> <link=card.create><style=AssociatedCard>Risen Reckoner</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp> <nobr>มอบ</nobr><link=keyword.Reckless><sprite name=Reckless><style=Keyword>บล็อกไม่ได้</style></link>แก่<zwsp>ศัตรู<zwsp>ที่<link=keyword.Weakest><style=Keyword>อ่อนแอที่สุด</style></link>\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>สิ้นลม</style></link>: <zwsp>สร้าง<zwsp> <link=card.create><style=AssociatedCard>Risen Reckoner</style></link> <zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ",
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ มอบบล็อกไม่ได้แก่ศัตรูที่อ่อนแอที่สุด\r\nสิ้นลม: สร้าง Risen Reckoner หนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -7794,8 +7794,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX013-full.png"
       }
     ],
     "regions": [
@@ -7836,8 +7836,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX018-full.png"
       }
     ],
     "regions": [
@@ -7882,8 +7882,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX001T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX001T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX001T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX001T1-full.png"
       }
     ],
     "regions": [
@@ -7930,8 +7930,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX001T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX001T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX001T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX001T3-full.png"
       }
     ],
     "regions": [
@@ -7947,7 +7947,7 @@
     "descriptionRaw": "สิ้นลม: อัญเชิญ Sion Returned \r\nเมื่อการ์ดใบนี้ถูกทิ้งจากมือ มอบทะลวงแก่พันธมิตรที่แข็งแกร่งที่สุด แล้วนำการ์ดใบนี้ใส่ในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "การ<zwsp>ต่อ<zwsp>สู้<zwsp>ทำ<zwsp>ให้<zwsp>เขา<zwsp>จำ<zwsp>ได้<zwsp> เขา<zwsp>จำ<zwsp>ชี<zwsp>วิต<zwsp>เก่า<zwsp>ที่<zwsp>เขา<zwsp>เคย<zwsp>เป็น<zwsp>นัก<zwsp>รบ<zwsp>ผู้<zwsp>รับ<zwsp>ใช้<zwsp>น็อก<zwsp>ซัส<zwsp>อย่าง<zwsp>ซื่อ<zwsp>สัตย์ <zwsp>เป็น<zwsp>นาย<zwsp>พล<zwsp>ที่<zwsp>สละ<zwsp>ชี<zwsp>วิต<zwsp>ของ<zwsp>เขา<zwsp>เพื่อ<zwsp>สัง<zwsp>หาร<zwsp>รา<zwsp>ชา<zwsp>แห่ง<zwsp>เด<zwsp>มา<zwsp>เซีย <zwsp>เขา<zwsp>จำ<zwsp>การ<zwsp>ตาย<zwsp>ของ<zwsp>เขา<zwsp>ได้ <zwsp>จำ<zwsp>ความ<zwsp>ว่าง<zwsp>เปล่า<zwsp>ที่<zwsp>เขา<zwsp>รู้<zwsp>สึก<zwsp>หลัง<zwsp>จาก<zwsp>นั้น<zwsp>ได้<zwsp> เขา<zwsp>ได้<zwsp>ใช้<zwsp>ชี<zwsp>วิต<zwsp>สม<zwsp>เกียรติ <zwsp>ได้<zwsp>ตาย<zwsp>อย่าง<zwsp>สม<zwsp>เกียรติ <zwsp>แต่<zwsp>ตอน<zwsp>นี้<zwsp>..<zwsp>. <zwsp>มัน<zwsp>คือ<zwsp>ความ<zwsp>บ้า<zwsp>คลั่ง",
+    "flavorText": "การ<zwsp>ต่อ<zwsp>สู้<zwsp>ทำ<zwsp>ให้<zwsp>เขา<zwsp>จำ<zwsp>ได้<zwsp> เขา<zwsp>จำ<zwsp>ชี<zwsp>วิต<zwsp>เก่า<zwsp>ที่<zwsp>เขา<zwsp>เคย<zwsp>เป็น<zwsp>นัก<zwsp>รบ<zwsp>ผู้<zwsp>รับ<zwsp>ใช้<zwsp>น็อก<zwsp>ซัส<zwsp>อย่าง<zwsp>ซื่อ<zwsp>สัตย์ <zwsp>เป็น<zwsp>นาย<zwsp>พล<zwsp>ที่<zwsp>สละ<zwsp>ชี<zwsp>วิต<zwsp>ของ<zwsp>เขา<zwsp>เพื่อ<zwsp>สัง<zwsp>หาร<zwsp>รา<zwsp>ชา<zwsp>แห่ง<zwsp>เด<zwsp>มา<zwsp>เซีย <zwsp>เขา<zwsp>จำ<zwsp>การ<zwsp>ตาย<zwsp>ของ<zwsp>เขา<zwsp>ได้ <zwsp>จำ<zwsp>ความ<zwsp>ว่าง<zwsp>เปล่า<zwsp>ที่<zwsp>เขา<zwsp>รู้<zwsp>สึก<zwsp>หลัง<zwsp>จาก<zwsp>นั้น<zwsp>ได้<zwsp> เขา<zwsp>ได้<zwsp>ใช้<zwsp>ชี<zwsp>วิต<zwsp>สม<zwsp>เกียรติ <zwsp>ได้<zwsp>ตาย<zwsp>อย่าง<nobr>สม<zwsp>เกียรติ</nobr> <zwsp>แต่<zwsp>ตอน<zwsp>นี้<zwsp>..<zwsp>. <zwsp>มัน<zwsp>คือ<zwsp>ความ<zwsp>บ้า<zwsp>คลั่ง",
     "artistName": "SIXMOREVODKA",
     "name": "Sion",
     "cardCode": "05NX001T3",
@@ -7978,8 +7978,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX001T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX001T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX001T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX001T2-full.png"
       }
     ],
     "regions": [
@@ -8020,8 +8020,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX012-full.png"
       }
     ],
     "regions": [
@@ -8033,7 +8033,7 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "เพื่อ<zwsp>เล่น<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้ <zwsp>ทิ้ง<zwsp>การ์ด <zwsp>1 <zwsp>ใบ<zwsp> สัง<zwsp>หาร<zwsp>ศัตรู<zwsp>ที่<link=keyword.Weakest><style=Keyword>อ่อนแอที่สุด</style></link>",
+    "description": "เพื่อ<zwsp>เล่น<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้ <zwsp>ทิ้ง<zwsp>การ์ด <zwsp>1 <zwsp>ใบ<zwsp> <nobr>สัง<zwsp>หาร</nobr>ศัตรู<zwsp>ที่<link=keyword.Weakest><style=Keyword>อ่อนแอที่สุด</style></link>",
     "descriptionRaw": "เพื่อเล่นการ์ดใบนี้ ทิ้งการ์ด 1 ใบ สังหารศัตรูที่อ่อนแอที่สุด",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -8064,8 +8064,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX014-full.png"
       }
     ],
     "regions": [
@@ -8108,8 +8108,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX007-full.png"
       }
     ],
     "regions": [
@@ -8152,8 +8152,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX004-full.png"
       }
     ],
     "regions": [
@@ -8190,8 +8190,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX016-full.png"
       }
     ],
     "regions": [
@@ -8228,8 +8228,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05NX002-full.png"
       }
     ],
     "regions": [
@@ -8275,8 +8275,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW005-full.png"
       }
     ],
     "regions": [
@@ -8292,7 +8292,7 @@
     "descriptionRaw": "เมื่อคุณร่ายเวท มอบ +1|+0 แก่พันธมิตรใบอื่นที่อ่อนแอที่สุดและไม่ได้เป็นยูนิตที่เคลื่อนไหวไม่ได้",
     "levelupDescription": "คุณได้รับมานาเวท 8 หน่วย<br>ขึ้นไปในเกมนี้<style=Variable></style>",
     "levelupDescriptionRaw": "คุณได้รับมานาเวท 8 หน่วยขึ้นไปในเกมนี้",
-    "flavorText": "\"<zwsp>เจ้า<zwsp>ได้<zwsp>บอก<zwsp>ลา<zwsp>ทุก<zwsp>คน<zwsp>แล้ว<zwsp>หรือ<zwsp>ยัง<zwsp> <zwsp>ผู้<zwsp>บัญ<zwsp>ชา<zwsp>กระ<zwsp>แส<zwsp>น้ำ<zwsp>ตัว<zwsp>น้อย?\"\n\"<zwsp>เรียบ<zwsp>ร้อย<zwsp>แล้ว<zwsp>ค่ะ<zwsp> คุณ<zwsp>ยาย<zwsp>\"\n\"<zwsp>เจ้า<zwsp>กลัว<zwsp>ไหม?\"\n\"<zwsp>...<zwsp>กลัว<zwsp>ค่ะ<zwsp> คุณ<zwsp>ยาย<zwsp>\"\n\"<zwsp>ดี<zwsp>มาก <zwsp>หาก<zwsp>เจ้า<zwsp>กลัว <zwsp>เจ้า<zwsp>จะ<zwsp>ระ<zwsp>วัง<zwsp>ตัว<zwsp> แต่<zwsp>จง<zwsp>เชื่อ<zwsp>ใจ<zwsp>ใน<zwsp>ตัว<zwsp>เจ้า<zwsp>เอง <zwsp>แบบ<zwsp>ที่<zwsp>เรา<zwsp>เชื่อ<zwsp>ใจ<zwsp>เจ้า<zwsp> จง<zwsp>ไป<zwsp>ตาม<zwsp>ทาง<zwsp>ของ<zwsp>เจ้า <zwsp>และ<zwsp>ขอ<zwsp>ให้<zwsp>กระ<zwsp>แส<zwsp>น้ำ<zwsp>คุ้ม<zwsp>ครอง<zwsp>\"",
+    "flavorText": "\"<zwsp>เจ้า<zwsp>ได้<zwsp>บอก<zwsp>ลา<zwsp>ทุก<zwsp>คน<zwsp>แล้ว<zwsp>หรือ<zwsp>ยัง<zwsp> <zwsp>ผู้<zwsp>บัญ<zwsp>ชา<zwsp>กระ<zwsp>แส<zwsp>น้ำ<zwsp>ตัว<zwsp>น้อย?\"\n\"<zwsp>เรียบ<zwsp>ร้อย<zwsp>แล้ว<zwsp>ค่ะ<zwsp> คุณ<zwsp>ยาย<zwsp>\"\n\"<zwsp>เจ้า<zwsp>กลัว<zwsp>ไหม?\"\n\"<zwsp>...<zwsp>กลัว<zwsp>ค่ะ<zwsp> คุณ<zwsp>ยาย<zwsp>\"\n\"<zwsp>ดี<zwsp>มาก <zwsp>หาก<zwsp>เจ้า<zwsp>กลัว <zwsp>เจ้า<zwsp>จะ<zwsp>ระ<zwsp>วัง<zwsp>ตัว<zwsp> แต่<zwsp>จง<zwsp>เชื่อ<zwsp>ใจ<zwsp>ใน<zwsp>ตัว<zwsp>เจ้า<zwsp>เอง <zwsp>แบบ<zwsp>ที่<zwsp>เรา<zwsp>เชื่อ<zwsp>ใจ<zwsp>เจ้า<zwsp> จง<zwsp>ไป<zwsp>ตาม<zwsp>ทาง<zwsp>ของ<zwsp>เจ้า <zwsp>และ<zwsp>ขอ<zwsp>ให้<nobr>กระ<zwsp>แส<zwsp>น้ำ</nobr><nobr>คุ้ม<zwsp>ครอง<zwsp>\"</nobr>",
     "artistName": "SIXMOREVODKA",
     "name": "Nami",
     "cardCode": "05BW005",
@@ -8324,8 +8324,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW005T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW005T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW005T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW005T2-full.png"
       }
     ],
     "regions": [
@@ -8371,8 +8371,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW005T1-full.png"
       }
     ],
     "regions": [
@@ -8388,7 +8388,7 @@
     "descriptionRaw": "เมื่อคุณร่ายเวท มอบ +2|+1 แก่พันธมิตรใบอื่นที่อ่อนแอที่สุดและไม่ได้เป็นยูนิตที่เคลื่อนไหวไม่ได้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>เจ้า<zwsp>คิด<zwsp>ว่า<zwsp>นาง<zwsp>เดิน<zwsp>ทาง<zwsp>ไป<zwsp>ไกล<zwsp>แล้ว<zwsp>หรือ<zwsp>ยัง<zwsp>?\"\n\"<zwsp>เรา<zwsp>ก็<zwsp>ได้<zwsp>แต่<zwsp>หวัง<zwsp>แหละ Tama\"\n\"<zwsp>ข้า<zwsp>พอ<zwsp>จะ<zwsp>นึก<zwsp>หน้า<zwsp>นาง<zwsp>ออก<zwsp>..<zwsp>. <zwsp>ดวง<zwsp>ตา<zwsp>งด<zwsp>งาม<zwsp>ส่อง<zwsp>ประ<zwsp>กาย<zwsp>แสง<zwsp>จันทร์ <zwsp>ประ<zwsp>กาย<zwsp>แสง<zwsp>จาก<zwsp>น้ำ<zwsp>เค็ม<zwsp>สะ<zwsp>ท้อน<zwsp>บน<zwsp>เกล็ด<zwsp>ของ<zwsp>เธอ<zwsp>\"\n\"<zwsp>ภาร<zwsp>กิจ<zwsp>นี้<zwsp>..<zwsp>. <zwsp>โชค<zwsp>ชะ<zwsp>ตา<zwsp>ของ<zwsp>เรา<zwsp> <zwsp>เธอ<zwsp>ไม่<zwsp>ควร<zwsp>แบก<zwsp>รับ<zwsp>มัน<zwsp>โดย<zwsp>ลำ<zwsp>พัง<zwsp>\"\n\"<zwsp>เธอ<zwsp>กำ<zwsp>ลัง<zwsp>ทำ<zwsp>หน้า<zwsp>ที่<zwsp>ของ<zwsp>เธอ<zwsp>อยู่ <zwsp>และ<zwsp>เรา<zwsp>ก็<zwsp>ทำ<zwsp>หน้า<zwsp>ที่<zwsp>ของ<zwsp>เรา<zwsp>อยู่<zwsp>นะ<zwsp> Loto <zwsp>สิ่ง<zwsp>เดียว<zwsp>ที่<zwsp>เรา<zwsp>ทำ<zwsp>ได้<zwsp>คือ<zwsp>การ<zwsp>เชื่อ<zwsp>มั่น<zwsp>ใน<zwsp>ตัว<zwsp>เธอ <zwsp>และ<zwsp>รัก<zwsp>เธอ<zwsp>จน<zwsp>เปี่ยม<zwsp>ล้น<zwsp>หัว<zwsp>ใจ<zwsp>\"",
+    "flavorText": "\"<zwsp>เจ้า<zwsp>คิด<zwsp>ว่า<zwsp>นาง<zwsp>เดิน<zwsp>ทาง<zwsp>ไป<zwsp>ไกล<zwsp>แล้ว<zwsp>หรือ<zwsp>ยัง<zwsp>?\"\n\"<zwsp>เรา<zwsp>ก็<zwsp>ได้<zwsp>แต่<zwsp>หวัง<zwsp>แหละ Tama\"\n\"<zwsp>ข้า<zwsp>พอ<zwsp>จะ<zwsp>นึก<zwsp>หน้า<zwsp>นาง<zwsp>ออก<zwsp>..<zwsp>. <zwsp>ดวง<zwsp>ตา<zwsp>งด<zwsp>งาม<nobr>ส่อง<zwsp>ประ<zwsp>กาย</nobr><nobr>แสง<zwsp>จันทร์</nobr> <zwsp>ประ<zwsp>กาย<zwsp>แสง<zwsp>จาก<zwsp>น้ำ<zwsp>เค็ม<nobr>สะ<zwsp>ท้อน</nobr><nobr>บน<zwsp>เกล็ด</nobr>ของ<zwsp>เธอ<zwsp>\"\n\"<zwsp>ภาร<zwsp>กิจ<zwsp>นี้<zwsp>..<zwsp>. <zwsp>โชค<zwsp>ชะ<zwsp>ตา<zwsp>ของ<zwsp>เรา<zwsp> <zwsp>เธอ<zwsp>ไม่<zwsp>ควร<zwsp>แบก<zwsp>รับ<zwsp>มัน<zwsp>โดย<zwsp>ลำ<zwsp>พัง<zwsp>\"\n\"<zwsp>เธอ<zwsp>กำ<zwsp>ลัง<zwsp>ทำ<zwsp>หน้า<zwsp>ที่<zwsp>ของ<zwsp>เธอ<zwsp>อยู่ <zwsp>และ<zwsp>เรา<zwsp>ก็<zwsp>ทำ<zwsp>หน้า<zwsp>ที่<zwsp>ของ<zwsp>เรา<zwsp>อยู่<zwsp>นะ<zwsp> Loto <zwsp>สิ่ง<zwsp>เดียว<zwsp>ที่<zwsp>เรา<zwsp>ทำ<zwsp>ได้<zwsp>คือ<zwsp>การ<zwsp>เชื่อ<zwsp>มั่น<zwsp>ใน<zwsp>ตัว<zwsp>เธอ <zwsp>และ<zwsp>รัก<zwsp>เธอ<zwsp>จน<zwsp>เปี่ยม<zwsp>ล้น<zwsp>หัว<zwsp>ใจ<zwsp>\"",
     "artistName": "SIXMOREVODKA",
     "name": "Nami",
     "cardCode": "05BW005T1",
@@ -8418,8 +8418,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW006-full.png"
       }
     ],
     "regions": [
@@ -8462,8 +8462,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW006T2-full.png"
       }
     ],
     "regions": [
@@ -8506,8 +8506,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW006T1-full.png"
       }
     ],
     "regions": [
@@ -8550,8 +8550,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW002-full.png"
       }
     ],
     "regions": [
@@ -8592,8 +8592,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW008-full.png"
       }
     ],
     "regions": [
@@ -8636,8 +8636,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW011-full.png"
       }
     ],
     "regions": [
@@ -8685,8 +8685,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW003-full.png"
       }
     ],
     "regions": [
@@ -8729,8 +8729,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW003T1-full.png"
       }
     ],
     "regions": [
@@ -8771,8 +8771,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW003T2-full.png"
       }
     ],
     "regions": [
@@ -8813,8 +8813,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW004-full.png"
       }
     ],
     "regions": [
@@ -8826,7 +8826,7 @@
     "attack": 4,
     "cost": 6,
     "health": 5,
-    "description": "หาก<zwsp>คุณ<zwsp>ควร<zwsp>จะ<zwsp>ได้<zwsp>อัญ<zwsp>มณี<zwsp>มา<zwsp>นา <zwsp>คุณ<zwsp>จะ<zwsp>ฟื้น<zwsp>ฟู<zwsp>มา<zwsp>นา<zwsp>เวท<zwsp>จน<zwsp>เต็ม<zwsp>แทน\r\n<zwsp>เมื่อ<zwsp>คุณ<zwsp>ร่าย<zwsp>เวท <zwsp>สร้าง<zwsp>เวท<zwsp>ที่<zwsp>มี<zwsp>ค่า<zwsp>ร่าย<zwsp>ไม่<zwsp>เกิน<zwsp> 3 <zwsp>หน่วย<zwsp>แบบ<zwsp>สุ่ม<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ <zwsp>แล้ว<zwsp>มอบ<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>ให้<zwsp>มัน",
+    "description": "หาก<zwsp>คุณ<zwsp>ควร<zwsp>จะ<zwsp>ได้<zwsp>อัญ<zwsp>มณี<zwsp>มา<zwsp>นา <zwsp>คุณ<zwsp>จะ<zwsp>ฟื้น<zwsp>ฟู<zwsp>มา<zwsp>นา<zwsp>เวท<zwsp>จน<zwsp>เต็ม<zwsp>แทน\r\n<zwsp>เมื่อ<zwsp>คุณ<zwsp>ร่าย<zwsp>เวท <zwsp>สร้าง<zwsp>เวท<zwsp>ที่<zwsp>มี<zwsp>ค่า<zwsp>ร่าย<zwsp>ไม่<zwsp>เกิน<zwsp> <nobr>3 <zwsp>หน่วย</nobr>แบบ<zwsp>สุ่ม<zwsp>หนึ่ง<zwsp>ใบ<zwsp>ใน<zwsp>มือ <zwsp>แล้ว<zwsp>มอบ<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>ชั่วคราว</style></link>ให้<zwsp>มัน",
     "descriptionRaw": "หากคุณควรจะได้อัญมณีมานา คุณจะฟื้นฟูมานาเวทจนเต็มแทน\r\nเมื่อคุณร่ายเวท สร้างเวทที่มีค่าร่ายไม่เกิน 3 หน่วยแบบสุ่มหนึ่งใบในมือ แล้วมอบชั่วคราวให้มัน",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -8855,8 +8855,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW001-full.png"
       }
     ],
     "regions": [
@@ -8893,8 +8893,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW010-full.png"
       }
     ],
     "regions": [
@@ -8931,8 +8931,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05BW013-full.png"
       }
     ],
     "regions": [
@@ -8971,8 +8971,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ015-full.png"
       }
     ],
     "regions": [
@@ -9009,8 +9009,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ012-full.png"
       }
     ],
     "regions": [
@@ -9026,7 +9026,7 @@
     "descriptionRaw": "เล่น: เลือกเวทหนึ่งใบจากการ์ด 5 ใบบนสุดของเด็คของคุณ และสร้างการ์ดเสมือนทุกประการของการ์ดใบนั้นที่มีชั่วคราวหนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "นัก<zwsp>สืบ<zwsp>ที่<zwsp>ไม่<zwsp>มี<zwsp>เบาะ<zwsp>แส<zwsp>ก็<zwsp>ไม่<zwsp>ต่าง<zwsp>อะ<zwsp>ไร<zwsp>จาก<zwsp>คน<zwsp>ธรรม<zwsp>ดา <zwsp>หน้า<zwsp>ที่<zwsp>ของ<zwsp>ผู้<zwsp>เก็บ<zwsp>รัก<zwsp>ษา<zwsp>เอก<zwsp>สาร<zwsp>คือ<zwsp>การ<zwsp>รวบ<zwsp>รวม<zwsp>เศษ<zwsp>ชิ้น<zwsp>ส่วน<zwsp>ข้อ<zwsp>มูล<zwsp>ทุก<zwsp>ชิ้น <zwsp>และ<zwsp>สร้าง<zwsp>ความ<zwsp>เป็น<zwsp>ไป<zwsp>ได้<zwsp>ใหม่<zwsp>ที่<zwsp>ไม่<zwsp>มี<zwsp>ใคร<zwsp>พบ<zwsp>มา<zwsp>ก่อน",
+    "flavorText": "นัก<zwsp>สืบ<zwsp>ที่<zwsp>ไม่<zwsp>มี<zwsp>เบาะ<zwsp>แส<zwsp>ก็<zwsp>ไม่<zwsp>ต่าง<zwsp>อะ<zwsp>ไร<zwsp>จาก<zwsp>คน<zwsp>ธรรม<zwsp>ดา <zwsp>หน้า<zwsp>ที่<zwsp>ของ<nobr>ผู้<zwsp>เก็บ<zwsp>รัก<zwsp>ษา</nobr>เอก<zwsp>สาร<zwsp>คือ<zwsp>การ<zwsp>รวบ<zwsp>รวม<zwsp>เศษ<zwsp>ชิ้น<zwsp>ส่วน<zwsp>ข้อ<zwsp>มูล<nobr>ทุก<zwsp>ชิ้น</nobr> <zwsp>และ<zwsp>สร้าง<zwsp>ความ<zwsp>เป็น<zwsp>ไป<zwsp>ได้<zwsp>ใหม่<zwsp>ที่<zwsp>ไม่<zwsp>มี<zwsp>ใคร<zwsp>พบ<zwsp>มา<zwsp>ก่อน",
     "artistName": "SIXMOREVODKA",
     "name": "Station Archivist",
     "cardCode": "05PZ012",
@@ -9049,8 +9049,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ026-full.png"
       }
     ],
     "regions": [
@@ -9091,8 +9091,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ019-full.png"
       }
     ],
     "regions": [
@@ -9133,8 +9133,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ023-full.png"
       }
     ],
     "regions": [
@@ -9174,8 +9174,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ031-full.png"
       }
     ],
     "regions": [
@@ -9216,8 +9216,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ031T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ031T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ031T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ031T1-full.png"
       }
     ],
     "regions": [
@@ -9258,8 +9258,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ027-full.png"
       }
     ],
     "regions": [
@@ -9304,8 +9304,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022-full.png"
       }
     ],
     "regions": [
@@ -9345,8 +9345,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T8.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T8-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T8.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T8-full.png"
       }
     ],
     "regions": [
@@ -9390,8 +9390,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T1-full.png"
       }
     ],
     "regions": [
@@ -9431,8 +9431,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T2-full.png"
       }
     ],
     "regions": [
@@ -9477,8 +9477,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T7.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T7-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T7.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T7-full.png"
       }
     ],
     "regions": [
@@ -9523,8 +9523,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T6.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T6-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T6.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T6-full.png"
       }
     ],
     "regions": [
@@ -9568,8 +9568,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T9.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T9-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T9.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T9-full.png"
       }
     ],
     "regions": [
@@ -9610,8 +9610,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ022T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ022T3-full.png"
       }
     ],
     "regions": [
@@ -9652,8 +9652,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ017-full.png"
       }
     ],
     "regions": [
@@ -9669,7 +9669,7 @@
     "descriptionRaw": "สร้างความเสียหาย 2 หน่วยแก่ยูนิตหนึ่งใบ หากในรอบนี้คุณได้เพิ่มการ์ดในมือมาแล้ว2 ใบขึ้นไป ให้สร้างความเสียหาย3 หน่วยแทน",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>รอ<zwsp>ให้<zwsp>พวก<zwsp>นั้น<zwsp>ระ<zwsp>บาย<zwsp>อา<zwsp>กาศ<zwsp>ซะ<zwsp>หน่อย <zwsp>พวก<zwsp>มือ<zwsp>ใหม่<zwsp>ทน<zwsp>ดม<zwsp>กลิ่น<zwsp>ไม่<zwsp>ไหว<zwsp>หรอก <zwsp>แต่<zwsp>ข้า<zwsp>จะ<zwsp>บอก<zwsp>ให้<zwsp>..<zwsp>. <zwsp>ถ้า<zwsp>เจ้า<zwsp>ชิน<zwsp>กับ<zwsp>กลิ่น<zwsp>เมื่อ<zwsp>ไหร่<zwsp>นะ<zwsp> ไม่<zwsp>มี<zwsp>อะ<zwsp>ไร<zwsp>เทียบ<zwsp>กับ<zwsp>มัน<zwsp>ได้<zwsp>เลย!\"<zwsp> -<zwsp> Puffcap Peddler",
+    "flavorText": "\"<zwsp>รอ<zwsp>ให้<zwsp>พวก<zwsp>นั้น<zwsp>ระ<zwsp>บาย<zwsp>อา<zwsp>กาศ<zwsp>ซะ<zwsp>หน่อย <zwsp>พวก<zwsp>มือ<zwsp>ใหม่<zwsp>ทน<zwsp>ดม<zwsp>กลิ่น<nobr>ไม่<zwsp>ไหว</nobr>หรอก <zwsp>แต่<zwsp>ข้า<zwsp>จะ<zwsp>บอก<zwsp>ให้<zwsp>..<zwsp>. <zwsp>ถ้า<zwsp>เจ้า<zwsp>ชิน<zwsp>กับ<zwsp>กลิ่น<zwsp>เมื่อ<zwsp>ไหร่<zwsp>นะ<zwsp> <nobr>ไม่<zwsp>มี<zwsp>อะ<zwsp>ไร</nobr>เทียบ<zwsp>กับ<zwsp>มัน<zwsp>ได้<zwsp>เลย!\"<zwsp> -<zwsp> Puffcap Peddler",
     "artistName": "Kudos Productions",
     "name": "Sump Fumes",
     "cardCode": "05PZ017",
@@ -9696,8 +9696,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ013-full.png"
       }
     ],
     "regions": [
@@ -9738,8 +9738,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ020-full.png"
       }
     ],
     "regions": [
@@ -9780,8 +9780,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ024-full.png"
       }
     ],
     "regions": [
@@ -9820,8 +9820,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ010-full.png"
       }
     ],
     "regions": [
@@ -9866,8 +9866,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ014-full.png"
       }
     ],
     "regions": [
@@ -9883,7 +9883,7 @@
     "descriptionRaw": "เล่น: ติด Flashbomb Trap5 ใบแบบสุ่มหรือบังคับใช้เอฟเฟกต์ของกับดักทั้งหมดที่เป็นการ์ด 5 ใบบนสุดของเด็คของศัตรู",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "Corina <zwsp>ยิ้ม<zwsp>ใน<zwsp>ขณะ<zwsp>ที่<zwsp>วอร์<zwsp>เดน<zwsp>แห่ง<zwsp>พิล<zwsp>โท<zwsp>เวอร์<zwsp>พัง<zwsp>ประ<zwsp>ตู<zwsp>ของ<zwsp>เธอ<zwsp> วิ่ง<zwsp>เหยียบ<zwsp>ย่ำ<zwsp>ดอก<zwsp>ไม้<zwsp>ใต้<zwsp>เท้า <zwsp>ซึ่ง<zwsp>ปล่อย<zwsp>ละ<zwsp>ออง<zwsp>เก<zwsp>สร<zwsp>พิษ<zwsp>ฟุ้ง<zwsp>กระ<zwsp>จาย <zwsp>ทุก<zwsp>อย่าง<zwsp>เป็น<zwsp>ไป<zwsp>ตาม<zwsp>แผน",
+    "flavorText": "Corina <zwsp>ยิ้ม<zwsp>ใน<zwsp>ขณะ<zwsp>ที่<zwsp>วอร์<zwsp>เดน<zwsp>แห่ง<zwsp>พิล<zwsp>โท<zwsp>เวอร์<zwsp>พัง<zwsp>ประ<zwsp>ตู<zwsp>ของ<zwsp>เธอ<zwsp> วิ่ง<zwsp>เหยียบ<zwsp>ย่ำ<zwsp>ดอก<zwsp>ไม้<zwsp>ใต้<zwsp>เท้า <zwsp>ซึ่ง<zwsp>ปล่อย<zwsp>ละ<zwsp>ออง<zwsp>เก<zwsp>สร<zwsp>พิษ<zwsp>ฟุ้ง<zwsp>กระ<zwsp>จาย<zwsp> <nobr>ทุก<zwsp>อย่าง</nobr>เป็น<zwsp>ไป<zwsp>ตาม<zwsp>แผน",
     "artistName": "SIXMOREVODKA",
     "name": "Corina, Mastermind",
     "cardCode": "05PZ014",
@@ -9906,8 +9906,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ014T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ014T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ014T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ014T1-full.png"
       }
     ],
     "regions": [
@@ -9948,8 +9948,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ014T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ014T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ014T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ014T2-full.png"
       }
     ],
     "regions": [
@@ -9990,8 +9990,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ002-full.png"
       }
     ],
     "regions": [
@@ -10032,8 +10032,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ008-full.png"
       }
     ],
     "regions": [
@@ -10076,8 +10076,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ021-full.png"
       }
     ],
     "regions": [
@@ -10118,8 +10118,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ025-full.png"
       }
     ],
     "regions": [
@@ -10160,8 +10160,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ006-full.png"
       }
     ],
     "regions": [
@@ -10204,8 +10204,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ004-full.png"
       }
     ],
     "regions": [
@@ -10244,8 +10244,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ009-full.png"
       }
     ],
     "regions": [
@@ -10286,8 +10286,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ016-full.png"
       }
     ],
     "regions": [
@@ -10328,8 +10328,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ030-full.png"
       }
     ],
     "regions": [
@@ -10370,8 +10370,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ028-full.png"
       }
     ],
     "regions": [
@@ -10414,8 +10414,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ035-full.png"
       }
     ],
     "regions": [
@@ -10460,8 +10460,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ006T2-full.png"
       }
     ],
     "regions": [
@@ -10506,8 +10506,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ006T1-full.png"
       }
     ],
     "regions": [
@@ -10548,8 +10548,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05PZ029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05PZ029-full.png"
       }
     ],
     "regions": [
@@ -10592,8 +10592,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI014-full.png"
       }
     ],
     "regions": [
@@ -10609,7 +10609,7 @@
     "descriptionRaw": "เริ่มรอบ: สร้างการ์ดเสมือนที่มีชั่วคราวของเวทที่ไม่มีชั่วคราวที่คุณร่ายเมื่อรอบที่แล้วหนึ่งใบในมือ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "เกาะ<zwsp>ศักดิ์<zwsp>สิทธิ์<zwsp>ลืม<zwsp> <zwsp>เกาะ<zwsp>แห่ง<zwsp>เงา<zwsp>จด<zwsp>จำ<zwsp> เกาะ<zwsp>แห่ง<zwsp>เงา<zwsp>ลืม<zwsp> <zwsp>เกาะ<zwsp>ศักดิ์<zwsp>สิทธิ์<zwsp>จด<zwsp>จำ",
+    "flavorText": "เกาะ<zwsp>ศักดิ์<zwsp>สิทธิ์<zwsp>ลืม<zwsp> <zwsp>เกาะ<zwsp>แห่ง<zwsp>เงา<zwsp>จด<zwsp>จำ<zwsp> เกาะ<zwsp>แห่ง<zwsp>เงา<zwsp>ลืม<zwsp> <nobr>เกาะ<zwsp>ศักดิ์<zwsp>สิทธิ์</nobr>จด<zwsp>จำ",
     "artistName": "Chris Kintner",
     "name": "Catalogue of Regrets",
     "cardCode": "05SI014",
@@ -10636,8 +10636,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI013-full.png"
       }
     ],
     "regions": [
@@ -10653,7 +10653,7 @@
     "descriptionRaw": "ในแต่ละรอบครั้งแรกที่คุณกำจัดยูนิตด้วยเวท อัญเชิญMistwraith ไร้ตัวตนหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "หมอ<zwsp>กท<zwsp>มิฬ<zwsp>กัก<zwsp>ขัง<zwsp>เหยื่อ<zwsp>ใน<zwsp>วัง<zwsp>วน<zwsp>แห่ง<zwsp>การ<zwsp>ทร<zwsp>มาน<zwsp>ตน<zwsp>เอง <zwsp>แต่<zwsp>ด้วย<zwsp>ที่<zwsp>ดัก<zwsp>หมอก<zwsp>ของ<zwsp> Tek <zwsp>และ<zwsp> Kana <zwsp>ทั้ง<zwsp>สอง<zwsp>ก็<zwsp>ได้<zwsp>ช่วย<zwsp>ปลด<zwsp>ปล่อย<zwsp>ดวง<zwsp>วิญ<zwsp>ญาณ<zwsp>เหล่า<zwsp>นี้<zwsp>ให้<zwsp>หลุด<zwsp>พ้น<zwsp>จาก<zwsp>วัฏ<zwsp>จักร<zwsp>ได้<zwsp>\n",
+    "flavorText": "หมอ<zwsp>กท<zwsp>มิฬ<zwsp>กัก<zwsp>ขัง<zwsp>เหยื่อ<zwsp>ใน<zwsp>วัง<zwsp>วน<zwsp>แห่ง<zwsp>การ<zwsp>ทร<zwsp>มาน<zwsp>ตน<zwsp>เอง <zwsp>แต่<zwsp>ด้วย<nobr>ที่<zwsp>ดัก<zwsp>หมอก</nobr>ของ<zwsp> Tek <zwsp>และ<zwsp> Kana <zwsp>ทั้ง<zwsp>สอง<zwsp>ก็<zwsp>ได้<zwsp>ช่วย<nobr>ปลด<zwsp>ปล่อย</nobr><nobr>ดวง<zwsp>วิญ<zwsp>ญาณ</nobr>เหล่า<zwsp>นี้<zwsp>ให้<zwsp>หลุด<zwsp>พ้น<zwsp>จาก<zwsp>วัฏ<zwsp>จักร<zwsp>ได้<zwsp>\n",
     "artistName": "SIXMOREVODKA",
     "name": "Mistkeepers",
     "cardCode": "05SI013",
@@ -10679,8 +10679,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI009-full.png"
       }
     ],
     "regions": [
@@ -10721,8 +10721,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI016-full.png"
       }
     ],
     "regions": [
@@ -10738,7 +10738,7 @@
     "descriptionRaw": "สังหารยูนิตหนึ่งใบและมอบ -2|-0 แก่ศัตรูทั้งหมดในรอบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>ที่<zwsp>ใด<zwsp>มี<zwsp>เงา <zwsp>ที่<zwsp>นั่น<zwsp>ย่อม<zwsp>มี<zwsp>แสง<zwsp>สว่าง <zwsp>ที่<zwsp>ใด<zwsp>มี<zwsp>ความ<zwsp>ตาย <zwsp>ที่<zwsp>นั่น<zwsp>ย่อม<zwsp>มี<zwsp>ชี<zwsp>วิต\"<zwsp> -<zwsp> Senna",
+    "flavorText": "\"<zwsp>ที่<zwsp>ใด<zwsp>มี<zwsp>เงา <zwsp>ที่<zwsp>นั่น<zwsp>ย่อม<zwsp>มี<zwsp>แสง<zwsp>สว่าง <zwsp>ที่<zwsp>ใด<zwsp>มี<zwsp>ความ<zwsp>ตาย <zwsp>ที่<zwsp>นั่น<zwsp>ย่อม<zwsp>มี<nobr>ชี<zwsp>วิต<zwsp>\"</nobr> -<zwsp> Senna",
     "artistName": "Kudos Productions",
     "name": "Dawning Shadow",
     "cardCode": "05SI016",
@@ -10763,8 +10763,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI004-full.png"
       }
     ],
     "regions": [
@@ -10803,8 +10803,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI012-full.png"
       }
     ],
     "regions": [
@@ -10820,7 +10820,7 @@
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญ สร้าง Darkness หนึ่งใบไว้ในมือหากคุณไม่ได้มีอยู่แล้ว",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>ข้า<zwsp>มอง<zwsp>ไม่<zwsp>เห็น<zwsp>ตะ<zwsp>วัน<zwsp>อีก<zwsp>ต่อ<zwsp>ไป <zwsp>แต่<zwsp>ถึง<zwsp>เช่น<zwsp>นั้น <zwsp>ข้า<zwsp>ก็<zwsp>ยัง<zwsp>มี<zwsp>ความ<zwsp>ทรง<zwsp>จำ<zwsp>ของ<zwsp>มัน <zwsp>และ<zwsp>แค่<zwsp>นั้น<zwsp>ก็<zwsp>เพียง<zwsp>พอ<zwsp>แล้ว<zwsp>\"",
+    "flavorText": "\"<zwsp>ข้า<zwsp>มอง<zwsp>ไม่<zwsp>เห็น<zwsp>ตะ<zwsp>วัน<zwsp>อีก<zwsp>ต่อ<zwsp>ไป <zwsp>แต่<zwsp>ถึง<zwsp>เช่น<zwsp>นั้น <zwsp>ข้า<zwsp>ก็<zwsp>ยัง<zwsp>มี<nobr>ความ<zwsp>ทรง<zwsp>จำ</nobr>ของ<zwsp>มัน <zwsp>และ<zwsp>แค่<zwsp>นั้น<zwsp>ก็<zwsp>เพียง<zwsp>พอ<zwsp>แล้ว<zwsp>\"",
     "artistName": "SIXMOREVODKA",
     "name": "Solari Sentinel",
     "cardCode": "05SI012",
@@ -10843,8 +10843,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI008-full.png"
       }
     ],
     "regions": [
@@ -10885,8 +10885,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI003-full.png"
       }
     ],
     "regions": [
@@ -10927,8 +10927,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI029-full.png"
       }
     ],
     "regions": [
@@ -10944,7 +10944,7 @@
     "descriptionRaw": "สร้างความเสียหาย 2 หน่วยแก่ศัตรูหนึ่งใบ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "ว่า<zwsp>กัน<zwsp>ว่า<zwsp>มี<zwsp>ความ<zwsp>กลัว<zwsp>ซ่อน<zwsp>อยู่<zwsp>ใน<zwsp>ทุก<zwsp>สิ่ง <zwsp>มัน<zwsp>ซ่อน<zwsp>อยู่<zwsp>เงียบ<zwsp>เชียบ<zwsp>ใน<zwsp>ใจ<zwsp>กลาง<zwsp>ของ<zwsp>ปริศนา <zwsp>มัน<zwsp>คือ<zwsp>ประ<zwsp>กาย<zwsp>แห่ง<zwsp>ความ<zwsp>สนุก<zwsp>ท่าม<zwsp>กลาง<zwsp>ความ<zwsp>ตื่น<zwsp>ตะ<zwsp>ลึง<zwsp> <zwsp>มัน<zwsp>มอบ<zwsp>เป้า<zwsp>หมาย<zwsp>ให้<zwsp>กับ<zwsp>ชี<zwsp>วิต<zwsp>..<zwsp>. <zwsp>และ<zwsp>มอบ<zwsp>อำ<zwsp>นาจ<zwsp>ให้<zwsp>กับ<zwsp>ความ<zwsp>ตาย <zwsp>มัน<zwsp>คือ<zwsp>ทุก<zwsp>สิ่ง <zwsp>และ<zwsp>มัน<zwsp>ไม่<zwsp>ใช่<zwsp>สิ่ง<zwsp>ใด<zwsp>เลย",
+    "flavorText": "ว่า<zwsp>กัน<zwsp>ว่า<zwsp>มี<zwsp>ความ<zwsp>กลัว<zwsp>ซ่อน<zwsp>อยู่<zwsp>ใน<zwsp>ทุก<zwsp>สิ่ง <zwsp>มัน<zwsp>ซ่อน<zwsp>อยู่<zwsp>เงียบ<zwsp>เชียบ<nobr>ใน<zwsp>ใจ<zwsp>กลาง</nobr>ของ<zwsp>ปริศนา <zwsp>มัน<zwsp>คือ<zwsp>ประ<zwsp>กาย<zwsp>แห่ง<zwsp>ความ<zwsp>สนุก<nobr>ท่าม<zwsp>กลาง</nobr><nobr>ความ<zwsp>ตื่น<zwsp>ตะ<zwsp>ลึง</nobr> <zwsp>มัน<zwsp>มอบ<zwsp>เป้า<zwsp>หมาย<zwsp>ให้<zwsp>กับ<zwsp>ชี<zwsp>วิต<zwsp>..<zwsp>. <zwsp>และ<zwsp>มอบ<nobr>อำ<zwsp>นาจ</nobr>ให้<zwsp>กับ<zwsp>ความ<zwsp>ตาย <zwsp>มัน<zwsp>คือ<zwsp>ทุก<zwsp>สิ่ง <zwsp>และ<zwsp>มัน<zwsp>ไม่<zwsp>ใช่<nobr>สิ่ง<zwsp>ใด<zwsp>เลย</nobr>",
     "artistName": "Kudos Productions",
     "name": "Darkness",
     "cardCode": "05SI029",
@@ -10971,8 +10971,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI010-full.png"
       }
     ],
     "regions": [
@@ -11013,8 +11013,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI009T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI009T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI009T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI009T1-full.png"
       }
     ],
     "regions": [
@@ -11030,7 +11030,7 @@
     "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือโจมตี: สร้าง Darkness หนึ่งใบไว้ในมือหากคุณไม่ได้มีอยู่แล้ว เวทสร้างความเสียหายและเวทสังหารของคุณจะเร่งความเร็วเป็นเวทเร็วและมีค่าร่ายลดลง 1 หน่วย",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>เรา<zwsp>คิด<zwsp>ผิด<zwsp> <zwsp>หมอ<zwsp>กท<zwsp>มิฬ<zwsp>ไม่<zwsp>ได้<zwsp>ไร้<zwsp>จิต<zwsp>ใจ <zwsp>มัน<zwsp>ไม่<zwsp>ได้<zwsp>สุ่ม<zwsp>ปรา<zwsp>กฏ <zwsp>มัน<zwsp>มี<zwsp>เป้า<zwsp>หมาย<zwsp>ของ<zwsp>มัน<zwsp> แต่<zwsp>นั่น<zwsp>หมาย<zwsp>ความ<zwsp>ว่า<zwsp>เรา<zwsp>สา<zwsp>มารถ<zwsp>ติด<zwsp>ตาม<zwsp>มัน<zwsp>ได้ <zwsp>ทิ้ง<zwsp>รอย<zwsp>แผล<zwsp>ให้<zwsp>มัน<zwsp>ได้<zwsp>\"",
+    "flavorText": "\"<zwsp>เรา<zwsp>คิด<zwsp>ผิด<zwsp> <zwsp>หมอ<zwsp>กท<zwsp>มิฬ<zwsp>ไม่<zwsp>ได้<zwsp>ไร้<zwsp>จิต<zwsp>ใจ <zwsp>มัน<zwsp>ไม่<zwsp>ได้<zwsp>สุ่ม<zwsp>ปรา<zwsp>กฏ <zwsp>มัน<zwsp>มี<nobr>เป้า<zwsp>หมาย</nobr>ของ<zwsp>มัน<zwsp> แต่<zwsp>นั่น<zwsp>หมาย<zwsp>ความ<zwsp>ว่า<zwsp>เรา<zwsp>สา<zwsp>มารถ<nobr>ติด<zwsp>ตาม</nobr>มัน<zwsp>ได้<zwsp> <nobr>ทิ้ง<zwsp>รอย<zwsp>แผล</nobr>ให้<zwsp>มัน<zwsp>ได้<zwsp>\"",
     "artistName": "SIXMOREVODKA",
     "name": "Senna",
     "cardCode": "05SI009T1",
@@ -11058,8 +11058,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI009T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI009T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI009T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI009T2-full.png"
       }
     ],
     "regions": [
@@ -11075,7 +11075,7 @@
     "descriptionRaw": "สังหารยูนิตหนึ่งใบและมอบ -2|-0 แก่ศัตรูทั้งหมดในรอบนี้\r\nสร้าง Senna หนึ่งใบในเด็คของคุณ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "\"<zwsp>ที่<zwsp>ใด<zwsp>มี<zwsp>เงา <zwsp>ที่<zwsp>นั่น<zwsp>ย่อม<zwsp>มี<zwsp>แสง<zwsp>สว่าง <zwsp>ที่<zwsp>ใด<zwsp>มี<zwsp>ความ<zwsp>ตาย <zwsp>ที่<zwsp>นั่น<zwsp>ย่อม<zwsp>มี<zwsp>ชี<zwsp>วิต\"<zwsp> -<zwsp> Senna",
+    "flavorText": "\"<zwsp>ที่<zwsp>ใด<zwsp>มี<zwsp>เงา <zwsp>ที่<zwsp>นั่น<zwsp>ย่อม<zwsp>มี<zwsp>แสง<zwsp>สว่าง <zwsp>ที่<zwsp>ใด<zwsp>มี<zwsp>ความ<zwsp>ตาย <zwsp>ที่<zwsp>นั่น<zwsp>ย่อม<zwsp>มี<nobr>ชี<zwsp>วิต<zwsp>\"</nobr> -<zwsp> Senna",
     "artistName": "Kudos Productions",
     "name": "Senna's Dawning Shadow",
     "cardCode": "05SI009T2",
@@ -11100,8 +11100,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI011-full.png"
       }
     ],
     "regions": [
@@ -11117,7 +11117,7 @@
     "descriptionRaw": "ครั้งแรกที่คุณกำจัดยูนิตด้วยเวทมอบ +2|+1 แก่การ์ดใบนี้",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "หมอ<zwsp>กท<zwsp>มิฬ<zwsp>เห็น<zwsp>สิ่ง<zwsp>ใด<zwsp>เมื่อ<zwsp>มัน<zwsp>มอง<zwsp> Maeve? <zwsp>ความ<zwsp>ร่า<zwsp>เริง<zwsp> <zwsp>ความ<zwsp>มั่น<zwsp>ใจ<zwsp> มุม<zwsp>มอง<zwsp>ที่<zwsp>อุ<zwsp>ดม<zwsp>ความ<zwsp>หวัง<zwsp>และ<zwsp>ไม่<zwsp>อาจ<zwsp>ถูก<zwsp>ดับ<zwsp>ได้<zwsp> มัน<zwsp>คง<zwsp>กระ<zwsp>หาย<zwsp>อยาก<zwsp>จะ<zwsp>ดับ<zwsp>เพลิง<zwsp>แห่ง<zwsp>ความ<zwsp>มา<zwsp>นะ<zwsp>นั้น <zwsp>เพราะ<zwsp>จะ<zwsp>มี<zwsp>สิ่ง<zwsp>ใด<zwsp>อีก<zwsp>ที่<zwsp>ความ<zwsp>ตาย<zwsp>กลัว<zwsp>มาก<zwsp>ไป<zwsp>กว่า<zwsp>ชี<zwsp>วิต<zwsp>?",
+    "flavorText": "หมอ<zwsp>กท<zwsp>มิฬ<zwsp>เห็น<zwsp>สิ่ง<zwsp>ใด<zwsp>เมื่อ<zwsp>มัน<zwsp>มอง<zwsp> Maeve? <zwsp>ความ<zwsp>ร่า<zwsp>เริง<zwsp> <nobr>ความ<zwsp>มั่น<zwsp>ใจ</nobr> <zwsp>มุม<zwsp>มอง<zwsp>ที่<zwsp>อุ<zwsp>ดม<zwsp>ความ<zwsp>หวัง<zwsp>และ<zwsp>ไม่<zwsp>อาจ<zwsp>ถูก<zwsp>ดับ<zwsp>ได้<zwsp> มัน<zwsp>คง<nobr>กระ<zwsp>หาย</nobr>อยาก<zwsp>จะ<zwsp>ดับ<zwsp>เพลิง<zwsp>แห่ง<zwsp>ความ<zwsp>มา<zwsp>นะ<zwsp>นั้น <zwsp>เพราะ<zwsp>จะ<zwsp>มี<zwsp>สิ่ง<zwsp>ใด<zwsp>อีก<zwsp>ที่<nobr>ความ<zwsp>ตาย</nobr>กลัว<zwsp>มาก<zwsp>ไป<zwsp>กว่า<zwsp>ชี<zwsp>วิต<zwsp>?",
     "artistName": "Wild Blue Studio",
     "name": "Burgeoning Sentinel",
     "cardCode": "05SI011",
@@ -11142,8 +11142,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05SI015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05SI015-full.png"
       }
     ],
     "regions": [
@@ -11184,8 +11184,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT004-full.png"
       }
     ],
     "regions": [
@@ -11222,8 +11222,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT006-full.png"
       }
     ],
     "regions": [
@@ -11266,8 +11266,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT008-full.png"
       }
     ],
     "regions": [
@@ -11311,8 +11311,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT003-full.png"
       }
     ],
     "regions": [
@@ -11355,8 +11355,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT013-full.png"
       }
     ],
     "regions": [
@@ -11393,8 +11393,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT009-full.png"
       }
     ],
     "regions": [
@@ -11438,8 +11438,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT003T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT003T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT003T2-full.png"
       }
     ],
     "regions": [
@@ -11451,8 +11451,8 @@
     "attack": 5,
     "cost": 4,
     "health": 3,
-    "description": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือเลเวลอัป มอบคีย์เวิร์ดแบบสุ่มให้กับการ์ดใบนี้ตาม<br>จำนวนรอบที่คุณได้เล็งเป้าหมาย<br>พันธมิตรไปในเกมนี้<style=Variable></style>",
-    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือเลเวลอัป มอบคีย์เวิร์ดแบบสุ่มให้กับการ์ดใบนี้ตามจำนวนรอบที่คุณได้เล็งเป้าหมายพันธมิตรไปในเกมนี้",
+    "description": "เมื่อ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ถูก<zwsp>อัญ<zwsp>เชิญ<zwsp>หรือ<zwsp>เมื่อ<zwsp>การ์ด<zwsp> <link=card.level1><style=AssociatedCard>Pantheon</style></link> <zwsp>พันธ<zwsp>มิตร<zwsp>เล<zwsp>เวล<zwsp>อัป<zwsp> มอบ<nobr>คีย์เวิร์ด</nobr>แบบ<zwsp>สุ่ม<zwsp>ให้<zwsp>กับ<zwsp>การ์ด<zwsp>ใบ<zwsp>นี้<zwsp>ตาม<nobr>จำนวน</nobr>รอบ<zwsp>ที่<zwsp>คุณ<zwsp>ได้<zwsp>เล็ง<zwsp>เป้า<zwsp>หมาย<zwsp>พันธ<zwsp>มิตร<zwsp>ไป<zwsp>ใน<zwsp>เกม<zwsp>นี้ <style=Variable></style>",
+    "descriptionRaw": "เมื่อการ์ดใบนี้ถูกอัญเชิญหรือเมื่อการ์ด Pantheon พันธมิตรเลเวลอัป มอบคีย์เวิร์ดแบบสุ่มให้กับการ์ดใบนี้ตามจำนวนรอบที่คุณได้เล็งเป้าหมายพันธมิตรไปในเกมนี้ ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Pantheon ผู้ถือครองหอกของตนที่สาบานว่าจะขับไล่เทพเจ้าและปีศาจ<br>ทั้งหมดจากดินแดนที่เราเรียกว่าบ้าน ยืนหยัดอยู่ที่นี่",
@@ -11485,8 +11485,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT003T1-full.png"
       }
     ],
     "regions": [
@@ -11527,8 +11527,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT010-full.png"
       }
     ],
     "regions": [
@@ -11565,8 +11565,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT002-full.png"
       }
     ],
     "regions": [
@@ -11609,8 +11609,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT012-full.png"
       }
     ],
     "regions": [
@@ -11647,8 +11647,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT011-full.png"
       }
     ],
     "regions": [
@@ -11689,8 +11689,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/3_0_0/set5/th_th/img/cards/05MT005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/3_1_0/set5/th_th/img/cards/05MT005-full.png"
       }
     ],
     "regions": [
